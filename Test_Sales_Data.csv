@@ -1,0 +1,1775 @@
+index,Sale,Name,Previous Product Count,Number of Previous Credit Checks,Downpayment (thousands),Year of Birth
+0,0,Mr. Owen Harris Braund,1,0,$7.25 ,1970/02/09
+1,1,Mrs. John Bradley (Florence Briggs Thayer) Cumings,1,0,USD 71.2833,1954/05/26
+2,1,Miss. Laina Heikkinen,0,0,$7.93 ,1966/06/25
+3,1,Mrs. Jacques Heath (Lily May Peel) Futrelle,1,0,$53.10 ,1957
+4,0,Mr. William Henry Allen,0,0,USD8.05,1957/11/12
+5,0,Mr. James Moran,0,0,$8.46 ,1965
+6,0,Mr. Timothy J McCarthy,0,0,$51.86 ,1938
+7,0,Master. Gosta Leonard Palsson,3,1,$21.08 ,1990/09/09
+8,1,Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson,0,2,$11.13 ,1965
+9,1,Mrs. Nicholas (Adele Achem) Nasser,1,0,USD 30.0708,1978/11/09
+10,1,Miss. Marguerite Rut Sandstrom,1,1,$16.70 ,1988/07/06
+11,1,Miss. Elizabeth Bonnell,0,0,USD26.55,1934
+12,0,Mr. William Henry Saundercock,0,0,$8.05 ,1972
+13,0,Mr. Anders Johan Andersson,1,5,$31.28 ,1953/01/17
+14,0,Miss. Hulda Amanda Adolfina Vestrom,0,0,$7.85 ,1978
+15,1,Mrs. (Mary D Kingcome) Hewlett,0,0,$16.00 ,1937/06/12
+16,0,Master. Eugene Rice,4,1,$29.13 ,1990
+17,1,Mr. Charles Eugene Williams,0,0,$13.00 ,1969/04/22
+18,0,Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke,1,0,USD18.0,1961
+19,1,Mrs. Fatima Masselmani,0,0,$7.23 ,1970
+20,0,Mr. Joseph J Fynney,0,0,$26.00 ,1957
+21,1,Mr. Lawrence Beesley,0,0,$13.00 ,1958/04/23
+22,1,Miss. Anna McGowan,0,0,$8.03 ,1977
+23,1,Mr. William Thompson Sloper,0,0,$35.50 ,1964/06/03
+24,0,Miss. Torborg Danira Palsson,3,1,$21.08 ,1984
+25,1,Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund,1,5,$31.39 ,1954/01/23
+26,0,Mr. Farred Chehab Emir,0,0,USD7.225,1966/05/19
+27,0,Mr. Charles Alexander Fortune,3,2,$263.00 ,1973
+28,1,Miss. Ellen O'Dwyer,0,0,USD7.8792,1968/09/07
+29,0,Mr. Lalio Todoroff,0,0,USD 7.8958,1969/03/09
+30,0,Don. Manuel E Uruchurtu,0,0,$27.72 ,1952/04/09
+31,1,Mrs. William Augustus (Marie Eugenie) Spencer,1,0,USD 146.5208,1944
+32,1,Miss. Mary Agatha Glynn,0,0,$7.75 ,1974/03/07
+33,0,Mr. Edward H Wheadon,0,0,$10.50 ,1926/01/08
+34,0,Mr. Edgar Joseph Meyer,1,0,$82.17 ,1964
+35,0,Mr. Alexander Oskar Holverson,1,0,USD52.0,1950
+36,1,Mr. Hanna Mamee,0,0,$7.23 ,1974/04/27
+37,0,Mr. Ernest Charles Cann,0,0,$8.05 ,1971
+38,0,Miss. Augusta Maria Vander Planke,2,0,USD 18.0,1974
+39,1,Miss. Jamila Nicola-Yarred,1,0,USD11.2417,1978
+40,0,Mrs. Johan (Johanna Persdotter Larsson) Ahlin,1,0,USD 9.475,1952
+41,0,Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin,1,0,$21.00 ,1965/03/16
+42,1,Miss. Simonne Marie Anne Andree Laroche,1,2,$41.58 ,1989
+43,1,Miss. Margaret Delia Devaney,0,0,$7.88 ,1973/11/06
+44,0,Mr. William John Rogers,0,0,$8.05 ,1962/10/10
+45,0,Mr. Denis Lennon,1,0,$15.50 ,1972/02/13
+46,1,Miss. Bridget O'Driscoll,0,0,$7.75 ,1965
+47,0,Mr. Youssef Samaan,2,0,USD 21.6792,1976
+48,0,Mrs. Josef (Josefine Franchi) Arnold-Franchi,1,0,$17.80 ,1974/06/20
+49,0,Master. Juha Niilo Panula,4,1,$39.69 ,1985/11/27
+50,0,Mr. Richard Cater Nosworthy,0,0,$7.80 ,1971
+51,1,Mrs. Henry Sleeper (Myna Haxtun) Harper,1,0,$76.73 ,1943/10/01
+52,1,Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe,1,0,USD 26.0,1963/03/21
+53,0,Mr. Engelhart Cornelius Ostby,0,1,$61.98 ,1927
+54,1,Mr. Hugh Woolner,0,0,USD 35.5,1946/05/06
+55,1,Miss. Emily Rugg,0,0,$10.50 ,1971
+56,0,Mr. Mansouer Novel,0,0,$7.23 ,1963
+57,1,Miss. Constance Mirium West,1,2,$27.75 ,1987
+58,0,Master. William Frederick Goodwin,5,2,$46.90 ,1981
+59,0,Mr. Orsen Sirayanian,0,0,$7.23 ,1970
+60,1,Miss. Amelie Icard,0,0,$80.00 ,1954/02/21
+61,0,Mr. Henry Birkhardt Harris,1,0,$83.48 ,1947/08/08
+62,0,Master. Harald Skoog,3,2,$27.90 ,1988/10/20
+63,0,Mr. Albert A Stewart,0,0,$27.72 ,1928
+64,1,Master. Gerios Moubarek,1,1,USD 15.2458,1985
+65,1,Mrs. (Elizabeth Ramell) Nye,0,0,$10.50 ,1963
+66,0,Mr. Ernest James Crease,0,0,USD 8.1583,1973
+67,1,Miss. Erna Alexandra Andersson,4,2,$7.93 ,1975
+68,0,Mr. Vincenz Kink,2,0,USD8.6625,1966
+69,0,Mr. Stephen Curnow Jenkin,0,0,$10.50 ,1960/01/04
+70,0,Miss. Lillian Amy Goodwin,5,2,$46.90 ,1976/02/05
+71,0,Mr. Ambrose Jr Hood,0,0,$73.50 ,1971/10/10
+72,0,Mr. Apostolos Chronopoulos,1,0,USD14.4542,1966
+73,1,Mr. Lee Bing,0,0,USD 56.4958,1960
+74,0,Mr. Sigurd Hansen Moen,0,0,$7.65 ,1967/10/17
+75,0,Mr. Ivan Staneff,0,0,$7.90 ,1969
+76,0,Mr. Rahamin Haim Moutal,0,0,$8.05 ,1964
+77,1,Master. Alden Gates Caldwell,0,2,$29.00 ,1991/02/15
+78,1,Miss. Elizabeth Dowdell,0,0,$12.48 ,1962/10/12
+79,0,Mr. Achille Waelens,0,0,$9.00 ,1970/05/26
+80,1,Mr. Jan Baptist Sheerlinck,0,0,$9.50 ,1963
+81,1,Miss. Brigdet Delia McDermott,0,0,$7.79 ,1961
+82,0,Mr. Francisco M Carrau,0,0,$47.10 ,1964/03/17
+83,1,Miss. Bertha Ilett,0,0,$10.50 ,1975/09/06
+84,1,Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom,3,0,$15.85 ,1959
+85,0,Mr. William Neal Ford,1,3,$34.38 ,1976
+86,0,Mr. Selman Francis Slocovski,0,0,USD 8.05,1972/11/16
+87,1,Miss. Mabel Helen Fortune,3,2,$263.00 ,1969/06/06
+88,0,Mr. Francesco Celotti,0,0,$8.05 ,1968
+89,0,Mr. Emil Christmann,0,0,$8.05 ,1963/01/17
+90,0,Mr. Paul Edvin Andreasson,0,0,USD7.8542,1972
+91,0,Mr. Herbert Fuller Chaffee,1,0,USD61.175,1946/08/04
+92,0,Mr. Bertram Frank Dean,1,2,USD 20.575,1966
+93,0,Mr. Daniel Coxon,0,0,$7.25 ,1933/08/06
+94,0,Mr. Charles Joseph Shorney,0,0,$8.05 ,1970/07/04
+95,0,Mr. George B Goldschmidt,0,0,$34.65 ,1921/07/16
+96,1,Mr. William Bertram Greenfield,0,1,$63.36 ,1969
+97,1,Mrs. John T (Ada Julia Bone) Doling,0,1,USD23.0,1958/05/01
+98,0,Mr. Sinai Kantor,1,0,$26.00 ,1958
+99,0,Miss. Matilda Petranec,0,0,$7.90 ,1964
+100,0,Mr. Pastcho Petroff,0,0,$7.90 ,1963/05/18
+101,0,Mr. Richard Frasar White,0,1,$77.29 ,1971/04/09
+102,0,Mr. Gustaf Joel Johansson,0,0,$8.65 ,1959
+103,0,Mr. Anders Vilhelm Gustafsson,2,0,$7.93 ,1955/02/11
+104,0,Mr. Stoytcho Mionoff,0,0,USD7.8958,1964/02/20
+105,1,Miss. Anna Kristine Salkjelsvik,0,0,$7.65 ,1971/06/10
+106,1,Mr. Albert Johan Moss,0,0,USD 7.775,1963
+107,0,Mr. Tido Rekic,0,0,$7.90 ,1954/07/06
+108,1,Miss. Bertha Moran,1,0,USD 24.15,1964
+109,0,Mr. Walter Chamberlain Porter,0,0,$52.00 ,1945
+110,0,Miss. Hileni Zabour,1,0,USD 14.4542,1977/05/14
+111,0,Mr. David John Barton,0,0,USD8.05,1970
+112,0,Miss. Katriina Jussila,1,0,USD9.825,1972/05/18
+113,0,Miss. Malake Attalah,0,0,USD14.4583,1975
+114,0,Mr. Edvard Pekoniemi,0,0,$7.93 ,1971
+115,0,Mr. Patrick Connors,0,0,$7.75 ,1921
+116,0,Mr. William John Robert Turpin,1,0,$21.00 ,1963
+117,0,Mr. Quigg Edmond Baxter,0,1,USD 247.5208,1968/05/05
+118,0,Miss. Ellis Anna Maria Andersson,4,2,$31.28 ,1990
+119,0,Mr. Stanley George Hickman,2,0,USD73.5,1971
+120,0,Mr. Leonard Charles Moore,0,0,USD8.05,1973/11/18
+121,0,Mr. Nicholas Nasser,1,0,$30.07 ,1959/10/14
+122,1,Miss. Susan Webber,0,0,$13.00 ,1959
+123,0,Mr. Percival Wayland White,0,1,$77.29 ,1938/05/27
+124,1,Master. Elias Nicola-Yarred,1,0,$11.24 ,1980/04/19
+125,0,Mr. Martin McMahon,0,0,$7.75 ,1973
+126,1,Mr. Fridtjof Arne Madsen,0,0,USD7.1417,1968
+127,1,Miss. Anna Peter,1,1,USD 22.3583,1990/06/10
+128,0,Mr. Johan Ekstrom,0,0,$6.98 ,1947
+129,0,Mr. Jozef Drazenoic,0,0,$7.90 ,1959
+130,0,Mr. Domingos Fernandeo Coelho,0,0,$7.05 ,1972
+131,0,Mrs. Alexander A (Grace Charity Laury) Robins,1,0,$14.50 ,1945/06/27
+132,1,Mrs. Leopold (Mathilde Francoise Pede) Weisz,1,0,$26.00 ,1963/07/22
+133,0,Mr. Samuel James Hayden Sobey,0,0,$13.00 ,1967/03/27
+134,0,Mr. Emile Richard,0,0,$15.05 ,1969/08/08
+135,1,Miss. Helen Monypeny Newsom,0,2,$26.28 ,1973
+136,0,Mr. Jacques Heath Futrelle,1,0,$53.10 ,1955
+137,0,Mr. Olaf Elon Osen,0,0,$9.22 ,1976
+138,0,Mr. Victor Giglio,0,0,USD79.2,1968/07/02
+139,0,Mrs. Joseph (Sultana) Boulos,0,2,$15.25 ,1952/09/03
+140,1,Miss. Anna Sofia Nysten,0,0,$7.75 ,1970
+141,1,Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen,1,0,$15.85 ,1968/06/20
+142,0,Mr. Jeremiah Burke,0,0,USD6.75,1973/08/02
+143,0,Mr. Edgardo Samuel Andrew,0,0,$11.50 ,1974/07/10
+144,0,Mr. Joseph Charles Nicholls,1,1,USD36.75,1973/10/04
+145,1,Mr. August Edvard Andersson,0,0,$7.80 ,1965/08/14
+146,0,Miss. Robina Maggie Ford,2,2,$34.38 ,1983
+147,0,Mr. Michel Navratil,0,2,$26.00 ,1955
+148,0,Rev. Thomas Roussel Davids Byles,0,0,$13.00 ,1950/04/17
+149,0,Rev. Robert James Bateman,0,0,USD 12.525,1941
+150,1,Mrs. Thomas (Edith Wearne) Pears,1,0,$66.60 ,1970
+151,0,Mr. Alfonzo Meo,0,0,$8.05 ,1936
+152,0,Mr. Austin Blyler van Billiard,0,2,USD 14.5,1951/10/16
+153,0,Mr. Ole Martin Olsen,0,0,USD 7.3125,1965
+154,0,Mr. Charles Duane Williams,0,1,$61.38 ,1941/08/18
+155,1,Miss. Katherine Gilnagh,0,0,USD7.7333,1976
+156,0,Mr. Harry Corn,0,0,$8.05 ,1962/09/08
+157,0,Mr. Mile Smiljanic,0,0,$8.66 ,1955/11/15
+158,0,Master. Thomas Henry Sage,8,2,$69.55 ,1987
+159,0,Mr. John Hatfield Cribb,0,1,$16.10 ,1948
+160,1,Mrs. James (Elizabeth Inglis Milne) Watt,0,0,$15.75 ,1952
+161,0,Mr. John Viktor Bengtsson,0,0,$7.78 ,1966/04/23
+162,0,Mr. Jovo Calic,0,0,$8.66 ,1975
+163,0,Master. Eino Viljami Panula,4,1,USD39.6875,1991
+164,1,Master. Frank John William Goldsmith,0,2,$20.53 ,1983
+165,1,Mrs. (Edith Martha Bowerman) Chibnall,0,1,$55.00 ,1944
+166,0,Mrs. William (Anna Bernhardina Karlsson) Skoog,1,4,$27.90 ,1947
+167,0,Mr. John D Baumann,0,0,$25.93 ,1932/08/02
+168,0,Mr. Lee Ling,0,0,$56.50 ,1964
+169,0,Mr. Wyckoff Van der hoef,0,0,$33.50 ,1931
+170,0,Master. Arthur Rice,4,1,$29.13 ,1988
+171,1,Miss. Eleanor Ileen Johnson,1,1,$11.13 ,1991/01/25
+172,0,Mr. Antti Wilhelm Sivola,0,0,$7.93 ,1971/11/14
+173,0,Mr. James Clinch Smith,0,0,$30.70 ,1936
+174,0,Mr. Klas Albin Klasen,1,1,$7.85 ,1974/03/27
+175,0,Master. Henry Forbes Lefebre,3,1,$25.47 ,1987/10/01
+176,0,Miss. Ann Elizabeth Isham,0,0,USD 28.7125,1942/07/24
+177,0,Mr. Reginald Hale,0,0,$13.00 ,1962
+178,0,Mr. Lionel Leonard,0,0,$0.00 ,1956
+179,0,Miss. Constance Gladys Sage,8,2,USD 69.55,1984
+180,0,Mr. Rene Pernot,0,0,$15.05 ,1953
+181,0,Master. Clarence Gustaf Hugo Asplund,4,2,$31.39 ,1983/07/15
+182,1,Master. Richard F Becker,2,1,$39.00 ,1991/07/20
+183,1,Miss. Luise Gretchen Kink-Heilmann,0,2,USD 22.025,1988/06/22
+184,0,Mr. Hugh Roscoe Rood,0,0,$50.00 ,1953/04/14
+185,1,Mrs. Thomas (Johanna Godfrey) O'Brien,1,0,$15.50 ,1966/02/23
+186,1,Mr. Charles Hallace Romaine,0,0,$26.55 ,1947
+187,0,Mr. John Bourke,1,1,$15.50 ,1952/09/04
+188,0,Mr. Stjepan Turcin,0,0,$7.90 ,1956
+189,1,Mrs. (Rosa) Pinsky,0,0,$13.00 ,1960/11/22
+190,0,Mr. William Carbines,0,0,$13.00 ,1973/01/19
+191,1,Miss. Carla Christine Nielsine Andersen-Jensen,1,0,$7.85 ,1973/07/08
+192,1,Master. Michel M Navratil,1,1,$26.00 ,1989
+193,1,Mrs. James Joseph (Margaret Tobin) Brown,0,0,$27.72 ,1948/11/21
+194,1,Miss. Elise Lurette,0,0,USD 146.5208,1934/08/13
+195,0,Mr. Robert Mernagh,0,0,$7.75 ,1964/09/13
+196,0,Mr. Karl Siegwart Andreas Olsen,0,1,$8.40 ,1950/07/15
+197,1,Miss. Margaret Madigan,0,0,USD 7.75,1971/10/14
+198,0,Miss. Henriette Yrois,0,0,$13.00 ,1968
+199,0,Mr. Nestor Cyriel Vande Walle,0,0,$9.50 ,1964
+200,0,Mr. Frederick Sage,8,2,$69.55 ,1975
+201,0,Mr. Jakob Alfred Johanson,0,0,$6.50 ,1958/08/24
+202,0,Mr. Gerious Youseff,0,0,USD 7.225,1946/08/03
+203,1,Mr. Gurshon Cohen,0,0,$8.05 ,1974/02/25
+204,0,Miss. Telma Matilda Strom,0,1,$10.46 ,1990/04/04
+205,0,Mr. Karl Alfred Backstrom,1,0,$15.85 ,1960/05/19
+206,1,Mr. Nassef Cassem Albimona,0,0,USD18.7875,1966/09/23
+207,1,Miss. Helen Carr,0,0,$7.75 ,1976/03/26
+208,1,Mr. Henry Blank,0,0,$31.00 ,1952/06/10
+209,0,Mr. Ahmed Ali,0,0,USD 7.05,1968/03/06
+210,1,Miss. Clear Annie Cameron,0,0,$21.00 ,1957
+211,0,Mr. John Henry Perkin,0,0,USD7.25,1970
+212,0,Mr. Hans Kristensen Givard,0,0,$13.00 ,1962/11/03
+213,0,Mr. Philip Kiernan,1,0,$7.75 ,1970
+214,1,Miss. Madeleine Newell,1,0,USD 113.275,1961/11/25
+215,1,Miss. Eliina Honkanen,0,0,$7.93 ,1965
+216,0,Mr. Sidney Samuel Jacobsohn,1,0,$27.00 ,1950
+217,1,Miss. Albina Bazzani,0,0,$76.29 ,1960
+218,0,Mr. Walter Harris,0,0,$10.50 ,1962/10/03
+219,1,Mr. Victor Francis Sunderland,0,0,USD 8.05,1976/09/19
+220,0,Mr. James H Bracken,0,0,$13.00 ,1965/03/15
+221,0,Mr. George Henry Green,0,0,$8.05 ,1941
+222,0,Mr. Christo Nenkoff,0,0,USD7.8958,1970
+223,1,Mr. Frederick Maxfield Hoyt,1,0,$90.00 ,1954/10/26
+224,0,Mr. Karl Ivar Sven Berglund,0,0,USD 9.35,1970
+225,1,Mr. William John Mellors,0,0,$10.50 ,1973
+226,0,Mr. John Hall Lovell,0,0,$7.25 ,1971/10/04
+227,0,Mr. Arne Jonas Fahlstrom,0,0,$13.00 ,1974
+228,0,Miss. Mathilde Lefebre,3,1,$25.47 ,1980
+229,1,Mrs. Henry Birkhardt (Irene Wallach) Harris,1,0,$83.48 ,1957/05/18
+230,0,Mr. Bengt Edvin Larsson,0,0,$7.78 ,1963/05/21
+231,0,Mr. Ernst Adolf Sjostedt,0,0,$13.50 ,1933
+232,1,Miss. Lillian Gertrud Asplund,4,2,$31.39 ,1987/04/12
+233,0,Mr. Robert William Norman Leyson,0,0,USD 10.5,1968
+234,0,Miss. Alice Phoebe Harknett,0,0,$7.55 ,1971
+235,0,Mr. Stephen Hold,1,0,$26.00 ,1948
+236,1,Miss. Marjorie Collyer,0,2,USD26.25,1984
+237,0,Mr. Frederick William Pengelly,0,0,$10.50 ,1973
+238,0,Mr. George Henry Hunt,0,0,$12.28 ,1959/10/16
+239,0,Miss. Thamine Zabour,1,0,$14.45 ,1973
+240,1,Miss. Katherine Murphy,1,0,USD 15.5,1974/02/11
+241,0,Mr. Reginald Charles Coleridge,0,0,$10.50 ,1963/04/12
+242,0,Mr. Matti Alexanteri Maenpaa,0,0,$7.13 ,1970
+243,0,Mr. Sleiman Attalah,0,0,$7.23 ,1962/10/25
+244,0,Dr. William Edward Minahan,2,0,$90.00 ,1948
+245,0,Miss. Agda Thorilda Viktoria Lindahl,0,0,$7.78 ,1967
+246,1,Mrs. William (Anna) Hamalainen,0,2,$14.50 ,1968/09/06
+247,1,Mr. Richard Leonard Beckwith,1,1,$52.55 ,1955/09/11
+248,0,Rev. Ernest Courtenay Carter,1,0,$26.00 ,1938/01/20
+249,0,Mr. James George Reed,0,0,$7.25 ,1974
+250,0,Mrs. Wilhelm (Elna Matilda Persson) Strom,1,1,USD 10.4625,1963
+251,0,Mr. William Thomas Stead,0,0,$26.55 ,1930/02/02
+252,0,Mr. William Arthur Lobb,1,0,$16.10 ,1962
+253,0,Mrs. Viktor (Helena Wilhelmina) Rosblom,0,2,$20.21 ,1951/03/04
+254,1,Mrs. Darwis (Hanne Youssef Razi) Touma,0,2,$15.25 ,1963
+255,1,Mrs. Gertrude Maybelle Thorne,0,0,USD 79.2,1954
+256,1,Miss. Gladys Cherry,0,0,$86.50 ,1962/11/23
+257,1,Miss. Anna Ward,0,0,$512.33 ,1957
+258,1,Mrs. (Lutie Davis) Parrish,0,1,$26.00 ,1942/11/24
+259,1,Master. Edvin Rojj Felix Asplund,4,2,$31.39 ,1989
+260,0,Mr. Emil Taussig,1,1,$79.65 ,1940
+261,0,Mr. William Harrison,0,0,$0.00 ,1952/03/22
+262,0,Miss. Delia Henry,0,0,$7.75 ,1971
+263,0,Mr. David Reeves,0,0,$10.50 ,1956
+264,0,Mr. Ernesti Arvid Panula,4,1,$39.69 ,1976/10/05
+265,1,Mr. Ernst Ulrik Persson,1,0,USD7.775,1967/08/23
+266,1,Mrs. William Thompson (Edith Junkins) Graham,0,1,$153.46 ,1934
+267,1,Miss. Amelia Bissette,0,0,$135.63 ,1957/05/19
+268,0,Mr. Alexander Cairns,0,0,$31.00 ,1964/09/18
+269,1,Mr. William Henry Tornquist,0,0,$0.00 ,1967
+270,1,Mrs. (Elizabeth Anne Maidment) Mellinger,0,1,$19.50 ,1951
+271,0,Mr. Charles H Natsch,0,1,$29.70 ,1955
+272,1,Miss. Hanora Healy,0,0,$7.75 ,1959
+273,1,Miss. Kornelia Theodosia Andrews,1,0,$77.96 ,1929
+274,0,Miss. Augusta Charlotta Lindblom,0,0,$7.75 ,1947
+275,0,Mr. Francis Parkes,0,0,$0.00 ,1971/05/12
+276,0,Master. Eric Rice,4,1,USD 29.125,1985
+277,1,Mrs. Stanton (Rosa Hunt) Abbott,1,1,USD20.25,1957/01/27
+278,0,Mr. Frank Duane,0,0,$7.75 ,1927
+279,0,Mr. Nils Johan Goransson Olsson,0,0,USD7.8542,1964
+280,0,Mr. Alfons de Pelsmaeker,0,0,$9.50 ,1976/08/19
+281,1,Mr. Edward Arthur Dorking,0,0,$8.05 ,1973/04/21
+282,0,Mr. Richard William Smith,0,0,USD26.0,1935/01/25
+283,0,Mr. Ivan Stankovic,0,0,$8.66 ,1959
+284,1,Mr. Theodore de Mulder,0,0,$9.50 ,1962/06/10
+285,0,Mr. Penko Naidenoff,0,0,$7.90 ,1970/11/23
+286,1,Mr. Masabumi Hosono,0,0,USD13.0,1950
+287,1,Miss. Kate Connolly,0,0,USD 7.75,1970
+288,1,Miss. Ellen Barber,0,0,$78.85 ,1966/04/01
+289,1,Mrs. Dickinson H (Helen Walton) Bishop,1,0,$91.08 ,1973
+290,0,Mr. Rene Jacques Levy,0,0,$12.88 ,1956
+291,0,Miss. Aloisia Haas,0,0,USD 8.85,1968
+292,0,Mr. Ivan Mineff,0,0,$7.90 ,1968
+293,0,Mr. Ervin G Lewy,0,0,USD27.7208,1962
+294,0,Mr. Mansour Hanna,0,0,$7.23 ,1968/04/24
+295,0,Miss. Helen Loraine Allison,1,2,USD 151.55,1990/09/24
+296,1,Mr. Adolphe Saalfeld,0,0,USD 30.5,1945/10/04
+297,1,Mrs. James (Helene DeLaudeniere Chaput) Baxter,0,1,USD 247.5208,1942/01/27
+298,1,Miss. Anna Katherine Kelly,0,0,$7.75 ,1972
+299,1,Mr. Bernard McCoy,2,0,$23.25 ,1968
+300,0,Mr. William Cahoone Jr Johnson,0,0,$0.00 ,1973/07/09
+301,1,Miss. Nora A Keane,0,0,$12.35 ,1946
+302,0,Mr. Howard Hugh Williams,0,0,USD8.05,1964/03/13
+303,1,Master. Hudson Trevor Allison,1,2,$151.55 ,1991/08/01
+304,1,Miss. Margaret Fleming,0,0,$110.88 ,1950/08/18
+305,1,Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana,1,0,$108.90 ,1975
+306,0,Mr. Samuel Abelson,1,0,$24.00 ,1962/10/13
+307,1,Miss. Laura Mabel Francatelli,0,0,$56.93 ,1962/10/16
+308,1,Miss. Margaret Bechstein Hays,0,0,$83.16 ,1968
+309,1,Miss. Emily Borie Ryerson,2,2,$262.38 ,1974/06/18
+310,0,Mrs. William (Anna Sylfven) Lahtinen,1,1,$26.00 ,1966/05/13
+311,0,Mr. Ignjac Hendekovic,0,0,$7.90 ,1964/10/13
+312,0,Mr. Benjamin Hart,1,1,$26.25 ,1949/09/19
+313,1,Miss. Helmina Josefina Nilsson,0,0,$7.85 ,1966
+314,1,Mrs. Sinai (Miriam Sternin) Kantor,1,0,$26.00 ,1968
+315,0,Dr. Ernest Moraweck,0,0,USD14.0,1938
+316,1,Miss. Mary Natalie Wick,0,2,$164.87 ,1961
+317,1,Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden,1,1,$134.50 ,1952/06/27
+318,0,Mr. Samuel Dennis,0,0,$7.25 ,1970
+319,0,Mr. Yoto Danoff,0,0,$7.90 ,1965
+320,1,Miss. Hilda Mary Slayter,0,0,$12.35 ,1962/10/04
+321,1,Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell,1,1,$29.00 ,1970
+322,0,Mr. George John Jr Sage,8,2,USD69.55,1972/04/15
+323,1,Miss. Marie Grice Young,0,0,$135.63 ,1956
+324,0,Mr. Johan Hansen Nysveen,0,0,$6.24 ,1931
+325,1,Mrs. (Ada E Hall) Ball,0,0,USD13.0,1956
+326,1,Mrs. Frank John (Emily Alice Brown) Goldsmith,1,1,USD 20.525,1961/05/27
+327,1,Miss. Jean Gertrude Hippach,0,1,USD57.9792,1976
+328,1,Miss. Agnes McCoy,2,0,$23.25 ,1964
+329,0,Mr. Austen Partner,0,0,USD 28.5,1946
+330,0,Mr. George Edward Graham,0,1,$153.46 ,1954/08/07
+331,0,Mr. Leo Edmondus Vander Planke,2,0,USD18.0,1976/09/09
+332,1,Mrs. Henry William (Clara Heinsheimer) Frauenthal,1,0,$133.65 ,1950/04/11
+333,0,Mr. Mitto Denkoff,0,0,$7.90 ,1962/08/27
+334,0,Mr. Thomas Clinton Pears,1,0,USD66.6,1963/08/02
+335,1,Miss. Elizabeth Margaret Burns,0,0,$134.50 ,1951
+336,1,Mr. Karl Edwart Dahl,0,0,$8.05 ,1947
+337,0,Mr. Stephen Weart Blackwell,0,0,$35.50 ,1947
+338,1,Master. Edmond Roger Navratil,1,1,$26.00 ,1990/04/15
+339,1,Miss. Alice Elizabeth Fortune,3,2,$263.00 ,1968/02/09
+340,0,Mr. Erik Gustaf Collander,0,0,$13.00 ,1964/02/24
+341,0,Mr. Charles Frederick Waddington Sedgwick,0,0,$13.00 ,1967/03/21
+342,0,Mr. Stanley Hubert Fox,0,0,$13.00 ,1956
+343,1,Miss. Amelia Brown,0,0,$13.00 ,1968/01/15
+344,1,Miss. Marion Elsie Smith,0,0,$13.00 ,1952
+345,1,Mrs. Thomas Henry (Mary E Finck) Davison,1,0,$16.10 ,1958/08/22
+346,1,Master. William Loch Coutts,1,1,$15.90 ,1989/01/15
+347,0,Mr. Jovan Dimic,0,0,$8.66 ,1950/08/01
+348,0,Mr. Nils Martin Odahl,0,0,USD9.225,1969
+349,0,Mr. Fletcher Fellows Williams-Lambert,0,0,USD35.0,1949
+350,0,Mr. Tannous Elias,1,1,$7.23 ,1977/06/24
+351,0,Mr. Josef Arnold-Franchi,1,0,$17.80 ,1967
+352,0,Mr. Wazli Yousif,0,0,USD7.225,1969/09/16
+353,0,Mr. Leo Peter Vanden Steen,0,0,$9.50 ,1964
+354,1,Miss. Elsie Edith Bowerman,0,1,$55.00 ,1970/06/17
+355,0,Miss. Annie Clemmer Funk,0,0,USD13.0,1954/02/25
+356,1,Miss. Mary McGovern,0,0,$7.88 ,1970/04/22
+357,1,Miss. Helen Mary Mockler,0,0,USD7.8792,1969/04/07
+358,0,Mr. Wilhelm Skoog,1,4,USD 27.9,1952
+359,0,Mr. Sebastiano del Carlo,1,0,$27.72 ,1963/01/09
+360,0,Mrs. (Catherine David) Barbara,0,1,$14.45 ,1947
+361,0,Mr. Adola Asim,0,0,$7.05 ,1957/10/12
+362,0,Mr. Thomas O'Brien,1,0,$15.50 ,1965
+363,0,Mr. Mauritz Nils Martin Adahl,0,0,USD7.25,1962/03/22
+364,1,Mrs. Frank Manley (Anna Sophia Atkinson) Warren,1,0,$75.25 ,1932/03/02
+365,1,Mrs. (Mantoura Boulos) Moussa,0,0,USD 7.2292,1957
+366,1,Miss. Annie Jermyn,0,0,$7.75 ,1970
+367,1,Mme. Leontine Pauline Aubart,0,0,$69.30 ,1968
+368,1,Mr. George Achilles Harder,1,0,$55.44 ,1967/11/27
+369,0,Mr. Jakob Alfred Wiklund,1,0,$6.50 ,1974
+370,0,Mr. William Thomas Beavan,0,0,$8.05 ,1973
+371,0,Mr. Sante Ringhini,0,0,$135.63 ,1970
+372,0,Miss. Stina Viola Palsson,3,1,USD21.075,1989/08/13
+373,1,Mrs. Edgar Joseph (Leila Saks) Meyer,1,0,USD 82.1708,1967
+374,1,Miss. Aurora Adelia Landergren,0,0,$7.25 ,1970/03/11
+375,0,Mr. Harry Elkins Widener,0,2,$211.50 ,1965
+376,0,Mr. Tannous Betros,0,0,$4.01 ,1972/02/03
+377,0,Mr. Karl Gideon Gustafsson,0,0,USD7.775,1973
+378,1,Miss. Rosalie Bidois,0,0,$227.53 ,1950
+379,1,Miss. Maria Nakid,0,2,$15.74 ,1991
+380,0,Mr. Juho Tikkanen,0,0,$7.93 ,1960/07/21
+381,1,Mrs. Alexander Oskar (Mary Aline Towner) Holverson,1,0,$52.00 ,1957
+382,0,Mr. Vasil Plotcharsky,0,0,$7.90 ,1965/11/15
+383,0,Mr. Charles Henry Davies,0,0,$73.50 ,1974
+384,0,Master. Sidney Leonard Goodwin,5,2,USD46.9,1991
+385,1,Miss. Kate Buss,0,0,$13.00 ,1956/09/20
+386,0,Mr. Matthew Sadlier,0,0,$7.73 ,1973/09/18
+387,1,Miss. Bertha Lehmann,0,0,USD12.0,1975/06/23
+388,1,Mr. William Ernest Carter,1,2,$120.00 ,1956/04/03
+389,1,Mr. Carl Olof Jansson,0,0,$7.80 ,1971
+390,0,Mr. Johan Birger Gustafsson,2,0,$7.93 ,1964
+391,1,Miss. Marjorie Newell,1,0,$113.28 ,1969
+392,1,Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom,0,2,$16.70 ,1968/07/25
+393,0,Mr. Erik Johansson,0,0,$7.80 ,1970
+394,0,Miss. Elina Olsson,0,0,$7.85 ,1961
+395,0,Mr. Peter David McKane,0,0,$26.00 ,1946
+396,0,Dr. Alfred Pain,0,0,USD 10.5,1969/09/13
+397,1,Mrs. William H (Jessie L) Trout,0,0,$12.65 ,1964
+398,1,Mr. Juha Niskanen,0,0,$7.93 ,1953/05/12
+399,0,Mr. John Adams,0,0,$8.05 ,1966/09/06
+400,0,Miss. Mari Aina Jussila,1,0,$9.83 ,1971/03/10
+401,0,Mr. Pekka Pietari Hakkarainen,1,0,USD15.85,1964
+402,0,Miss. Marija Oreskovic,0,0,USD 8.6625,1972
+403,0,Mr. Shadrach Gale,1,0,$21.00 ,1958
+404,0,Mr. Carl/Charles Peter Widegren,0,0,$7.75 ,1941
+405,1,Master. William Rowe Richards,1,1,$18.75 ,1989
+406,0,Mr. Hans Martin Monsen Birkeland,0,0,$7.78 ,1971/02/20
+407,0,Miss. Ida Lefebre,3,1,$25.47 ,1989/08/13
+408,0,Mr. Todor Sdycoff,0,0,$7.90 ,1950
+409,0,Mr. Henry Hart,0,0,USD 6.8583,1965/01/19
+410,1,Miss. Daisy E Minahan,1,0,$90.00 ,1959
+411,0,Mr. Alfred Fleming Cunningham,0,0,$0.00 ,1970
+412,1,Mr. Johan Julian Sundman,0,0,USD 7.925,1948
+413,0,Mrs. Thomas (Annie Louise Rowley) Meek,0,0,$8.05 ,1960
+414,1,Mrs. James Vivian (Lulu Thorne Christian) Drew,1,1,USD32.5,1958/02/27
+415,1,Miss. Lyyli Karoliina Silven,0,2,USD 13.0,1974/05/06
+416,0,Mr. William John Matthews,0,0,USD 13.0,1962
+417,0,Miss. Catharina Van Impe,0,2,$24.15 ,1982
+418,0,Mr. David Charters,0,0,USD 7.7333,1971/01/02
+419,0,Mr. Leo Zimmerman,0,0,$7.88 ,1963
+420,0,Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom,1,1,$14.40 ,1964
+421,0,Mr. Viktor Richard Rosblom,1,1,$20.21 ,1974
+422,0,Mr. Phillippe Wiseman,0,0,$7.25 ,1938
+423,1,Mrs. Charles V (Ada Maria Winfield) Clarke,1,0,$26.00 ,1964
+424,1,Miss. Kate Florence Phillips,0,0,$26.00 ,1973/02/17
+425,0,Mr. James Flynn,0,0,USD7.75,1964
+426,1,Mr. Berk (Berk Trembisky) Pickard,0,0,$8.05 ,1960
+427,1,Mr. Mauritz Hakan Bjornstrom-Steffansson,0,0,$26.55 ,1964
+428,1,Mrs. Percival (Florence Kate White) Thorneycroft,1,0,$16.10 ,1959
+429,1,Mrs. Charles Alexander (Alice Adelaide Slow) Louch,1,0,$26.00 ,1950
+430,0,Mr. Nikolai Erland Kallio,0,0,$7.13 ,1975
+431,0,Mr. William Baird Silvey,1,0,USD55.9,1942/05/08
+432,1,Miss. Lucile Polk Carter,1,2,$120.00 ,1978/03/27
+433,0,Miss. Doolina Margaret Ford,2,2,USD34.375,1971/07/08
+434,1,Mrs. Sidney (Emily Hocking) Richards,2,3,$18.75 ,1968
+435,0,Mr. Mark Fortune,1,4,$263.00 ,1928/07/12
+436,0,Mr. Johan Henrik Johannesson Kvillner,0,0,$10.50 ,1961/07/17
+437,1,Mrs. Benjamin (Esther Ada Bloomfield) Hart,1,1,$26.25 ,1947/04/11
+438,0,Mr. Leon Hampe,0,0,USD9.5,1972
+439,0,Mr. Johan Emil Petterson,1,0,$7.78 ,1967/11/05
+440,1,Ms. Encarnacion Reynaldo,0,0,$13.00 ,1964
+441,1,Mr. Bernt Johannesen-Bratthammer,0,0,USD 8.1125,1963/03/25
+442,1,Master. Washington Dodge,0,2,USD81.8583,1988/05/13
+443,1,Miss. Madeleine Violet Mellinger,0,1,$19.50 ,1979/07/12
+444,1,Mr. Frederic Kimber Seward,0,0,USD26.55,1958/03/23
+445,1,Miss. Marie Catherine Baclini,2,1,$19.26 ,1987/01/24
+446,1,Major. Arthur Godfrey Peuchen,0,0,USD30.5,1940
+447,0,Mr. Edwy Arthur West,1,2,$27.75 ,1956/09/12
+448,0,Mr. Ingvald Olai Olsen Hagland,1,0,$19.97 ,1964
+449,0,Mr. Benjamin Laventall Foreman,0,0,$27.75 ,1962
+450,1,Mr. Samuel L Goldenberg,1,0,$89.10 ,1943
+451,0,Mr. Joseph Peduzzi,0,0,$8.05 ,1968/05/20
+452,1,Mr. Ivan Jalsevac,0,0,$7.90 ,1963
+453,0,Mr. Francis Davis Millet,0,0,$26.55 ,1927/11/20
+454,1,Mrs. Frederick R (Marion) Kenyon,1,0,$51.86 ,1951
+455,1,Miss. Ellen Toomey,0,0,USD 10.5,1942
+456,0,Mr. Maurice O'Connor,0,0,$7.75 ,1975/07/13
+457,1,Mr. Harry Anderson,0,0,$26.55 ,1944
+458,0,Mr. William Morley,0,0,$8.05 ,1958
+459,0,Mr. Arthur H Gee,0,0,USD 38.5,1945
+460,0,Mr. Jacob Christian Milling,0,0,USD13.0,1944/04/06
+461,0,Mr. Simon Maisner,0,0,USD8.05,1958/01/15
+462,0,Mr. Manuel Estanslas Goncalves,0,0,USD7.05,1954
+463,0,Mr. William Campbell,0,0,$0.00 ,1971/02/19
+464,0,Mr. John Montgomery Smart,0,0,$26.55 ,1936/06/20
+465,0,Mr. James Scanlan,0,0,$7.73 ,1970/09/27
+466,1,Miss. Helene Barbara Baclini,2,1,$19.26 ,1991/09/10
+467,0,Mr. Arthur Keefe,0,0,$7.25 ,1953
+468,0,Mr. Luka Cacic,0,0,$8.66 ,1954/01/12
+469,1,Mrs. Edwy Arthur (Ada Mary Worth) West,1,2,USD 27.75,1959
+470,1,Mrs. Amin S (Marie Marthe Thuillard) Jerwan,0,0,$13.79 ,1969
+471,0,Miss. Ida Sofia Strandberg,0,0,$9.84 ,1970/10/04
+472,0,Mr. George Quincy Clifford,0,0,USD52.0,1952
+473,0,Mr. Peter Henry Renouf,1,0,USD 21.0,1958/06/25
+474,0,Mr. Lewis Richard Braund,1,0,$7.05 ,1963/07/13
+475,0,Mr. Nils August Karlsson,0,0,$7.52 ,1970
+476,1,Miss. Hildur E Hirvonen,0,1,$12.29 ,1990/06/22
+477,0,Master. Harold Victor Goodwin,5,2,$46.90 ,1983
+478,0,Mr. Anthony Wood Frost,0,0,$0.00 ,1955
+479,0,Mr. Richard Henry Rouse,0,0,USD 8.05,1942
+480,1,Mrs. (Hedwig) Turkula,0,0,USD9.5875,1929
+481,1,Mr. Dickinson H Bishop,1,0,$91.08 ,1967
+482,0,Miss. Jeannie Lefebre,3,1,$25.47 ,1984/02/08
+483,1,Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt,1,0,USD90.0,1957/05/17
+484,0,Mr. Edward Austin Kent,0,0,$29.70 ,1934
+485,0,Mr. Francis William Somerton,0,0,$8.05 ,1962/08/05
+486,1,Master. Eden Leslie Coutts,1,1,$15.90 ,1983
+487,0,Mr. Konrad Mathias Reiersen Hagland,1,0,$19.97 ,1973
+488,0,Mr. Einar Windelov,0,0,$7.25 ,1971
+489,0,Mr. Harry Markland Molson,0,0,$30.50 ,1937
+490,0,Mr. Ramon Artagaveytia,0,0,USD 49.5042,1921
+491,0,Mr. Edward Roland Stanley,0,0,$8.05 ,1971
+492,0,Mr. Gerious Yousseff,0,0,$14.46 ,1966
+493,1,Miss. Elizabeth Mussey Eustis,1,0,$78.27 ,1938
+494,0,Mr. Frederick William Shellard,0,0,$15.10 ,1937
+495,0,Mrs. Hudson J C (Bessie Waldo Daniels) Allison,1,2,$151.55 ,1967/11/22
+496,0,Mr. Olof Svensson,0,0,$7.80 ,1968
+497,0,Mr. Petar Calic,0,0,$8.66 ,1975/10/22
+498,0,Miss. Mary Canavan,0,0,USD7.75,1971
+499,0,Miss. Bridget Mary O'Sullivan,0,0,$7.63 ,1971
+500,0,Miss. Kristina Sofia Laitinen,0,0,$9.59 ,1955
+501,1,Miss. Roberta Maioni,0,0,$86.50 ,1976
+502,0,Mr. Victor de Satode Penasco y Castellana,1,0,$108.90 ,1974/07/11
+503,1,Mrs. Frederick Charles (Jane Richards) Quick,0,2,$26.00 ,1959/06/04
+504,1,Mr. George Bradley,0,0,$26.55 ,1955
+505,0,Mr. Henry Margido Olsen,0,0,$22.53 ,1964/02/25
+506,1,Mr. Fang Lang,0,0,$56.50 ,1966/09/26
+507,1,Mr. Eugene Patrick Daly,0,0,$7.75 ,1963/05/12
+508,0,Mr. James Webber,0,0,$8.05 ,1926
+509,1,Mr. James Robert McGough,0,0,USD 26.2875,1956
+510,1,Mrs. Martin (Elizabeth L. Barrett) Rothschild,1,0,$59.40 ,1938
+511,0,Mr. Satio Coleff,0,0,$7.50 ,1968/10/10
+512,0,Mr. William Anderson Walker,0,0,USD34.0208,1945/01/26
+513,1,Mrs. (Amelia Milley) Lemore,0,0,$10.50 ,1958
+514,0,Mr. Patrick Ryan,0,0,$24.15 ,1962
+515,1,Mrs. William A (Florence Agnes Hughes) Angle,1,0,USD26.0,1956
+516,0,Mr. Stefo Pavlovic,0,0,USD 7.8958,1960
+517,1,Miss. Anne Perreault,0,0,$93.50 ,1962
+518,0,Mr. Janko Vovk,0,0,USD 7.8958,1970
+519,0,Mr. Sarkis Lahoud,0,0,USD7.225,1957/02/19
+520,1,Mrs. Louis Albert (Ida Sophia Fischer) Hippach,0,1,$57.98 ,1948/10/08
+521,0,Mr. Fared Kassem,0,0,$7.23 ,1974
+522,0,Mr. James Farrell,0,0,$7.75 ,1951
+523,1,Miss. Lucy Ridsdale,0,0,$10.50 ,1942/08/22
+524,0,Mr. John Farthing,0,0,USD221.7792,1943/09/03
+525,0,Mr. Johan Werner Salonen,0,0,USD7.925,1953/03/09
+526,0,Mr. Richard George Hocking,2,1,$11.50 ,1969
+527,1,Miss. Phyllis May Quick,1,1,$26.00 ,1990/06/19
+528,0,Mr. Nakli Toufik,0,0,$7.23 ,1975/06/19
+529,0,Mr. Joseph Jr Elias,1,1,$7.23 ,1975/08/13
+530,1,Mrs. Catherine (Catherine Rizk) Peter,0,2,$22.36 ,1968
+531,0,Miss. Marija Cacic,0,0,USD8.6625,1962/01/07
+532,1,Miss. Eva Miriam Hart,0,2,$26.25 ,1985/07/14
+533,0,Major. Archibald Willingham Butt,0,0,USD 26.55,1947
+534,1,Miss. Bertha LeRoy,0,0,$106.43 ,1962
+535,0,Mr. Samuel Beard Risien,0,0,$14.50 ,1923/01/07
+536,1,Miss. Hedwig Margaritha Frolicher,0,2,$49.50 ,1970
+537,1,Miss. Harriet R Crosby,0,2,USD 71.0,1956/03/12
+538,0,Miss. Ingeborg Constanzia Andersson,4,2,$31.28 ,1983/06/11
+539,0,Miss. Sigrid Elisabeth Andersson,4,2,$31.28 ,1981/04/12
+540,1,Mr. Edward Beane,1,0,$26.00 ,1960/01/08
+541,0,Mr. Walter Donald Douglas,1,0,USD 106.425,1942
+542,0,Mr. Arthur Ernest Nicholson,0,0,$26.00 ,1928/09/09
+543,1,Mrs. Edward (Ethel Clarke) Beane,1,0,$26.00 ,1973
+544,1,Mr. Julian Padro y Manent,0,0,$13.86 ,1965
+545,0,Mr. Frank John Goldsmith,1,1,$20.53 ,1959/01/05
+546,1,Master. John Morgan Jr Davies,1,1,$36.75 ,1984/04/26
+547,1,Mr. John Borland Jr Thayer,0,2,$110.88 ,1975/05/18
+548,0,Mr. Percival James R Sharp,0,0,$26.00 ,1965
+549,0,Mr. Timothy O'Brien,0,0,$7.83 ,1971/11/23
+550,1,Mr. Fahim Leeni,0,0,$7.23 ,1970/06/14
+551,1,Miss. Velin Ohman,0,0,$7.78 ,1970/01/18
+552,0,Mr. George Wright,0,0,USD 26.55,1930
+553,1,Lady. (Lucille Christiana Sutherland)Duff Gordon,1,0,$39.60 ,1944
+554,0,Mr. Victor Robbins,0,0,$227.53 ,1947
+555,1,Mrs. Emil (Tillie Mandelbaum) Taussig,1,1,USD79.65,1953/11/05
+556,1,Mrs. Guillaume Joseph (Emma) de Messemaeker,1,0,$17.40 ,1956
+557,0,Mr. Thomas Rowan Morrow,0,0,USD7.75,1962
+558,0,Mr. Husein Sivic,0,0,$7.90 ,1952
+559,0,Mr. Robert Douglas Norman,0,0,$13.50 ,1964
+560,0,Mr. John Simmons,0,0,$8.05 ,1952
+561,0,Miss. (Marion Ogden) Meanwell,0,0,$8.05 ,1930/03/09
+562,0,Mr. Alfred J Davies,2,0,$24.15 ,1968/03/11
+563,0,Mr. Ilia Stoytcheff,0,0,$7.90 ,1973/01/07
+564,0,Mrs. Nils (Alma Cornelia Berglund) Palsson,0,4,$21.08 ,1963
+565,0,Mr. Tannous Doharr,0,0,$7.23 ,1964
+566,1,Mr. Carl Jonsson,0,0,USD 7.8542,1960/07/10
+567,1,Mr. George Harris,0,0,USD 10.5,1930
+568,1,Mrs. Edward Dale (Charlotte Lamson) Appleton,2,0,$51.48 ,1939/03/24
+569,1,Mr. John Irwin Flynn,0,0,$26.39 ,1956/06/03
+570,1,Miss. Mary Kelly,0,0,USD7.75,1970
+571,0,Mr. Alfred George John Rush,0,0,USD8.05,1976/01/24
+572,0,Mr. George Patchett,0,0,$14.50 ,1973/05/01
+573,1,Miss. Ethel Garside,0,0,$13.00 ,1958
+574,1,Mrs. William Baird (Alice Munger) Silvey,1,0,USD 55.9,1953
+575,0,Mrs. Joseph (Maria Elias) Caram,1,0,$14.46 ,1974/01/01
+576,1,Mr. Eiriik Jussila,0,0,USD7.925,1960
+577,1,Miss. Julie Rachel Christy,1,1,$30.00 ,1967/05/24
+578,1,Mrs. John Borland (Marian Longstreth Morris) Thayer,1,1,USD110.8833,1953/08/05
+579,0,Mr. William James Downton,0,0,$26.00 ,1938/03/12
+580,0,Mr. John Hugo Ross,0,0,$40.13 ,1956
+581,0,Mr. Uscher Paulner,0,0,$8.71 ,1976/06/15
+582,1,Miss. Ruth Taussig,0,2,$79.65 ,1974/09/25
+583,0,Mr. John Denzil Jarvis,0,0,USD15.0,1945
+584,1,Mr. Maxmillian Frolicher-Stehli,1,1,$79.20 ,1932/07/11
+585,0,Mr. Eliezer Gilinski,0,0,USD8.05,1970
+586,0,Mr. Joseph Murdlin,0,0,$8.05 ,1970/07/22
+587,0,Mr. Matti Rintamaki,0,0,USD 7.125,1957/06/15
+588,1,Mrs. Walter Bertram (Martha Eustis) Stephenson,1,0,USD 78.2667,1940/01/08
+589,0,Mr. William James Elsbury,0,0,$7.25 ,1945
+590,0,Miss. Mary Bourke,0,2,$7.75 ,1952/02/25
+591,0,Mr. John Henry Chapman,1,0,$26.00 ,1955
+592,0,Mr. Jean Baptiste Van Impe,1,1,$24.15 ,1956/07/20
+593,1,Miss. Jessie Wills Leitch,0,0,$33.00 ,1961
+594,0,Mr. Alfred Johnson,0,0,$0.00 ,1943
+595,0,Mr. Hanna Boulos,0,0,USD7.225,1974/02/22
+596,1,Sir. Cosmo Edmund Duff Gordon,1,0,$56.93 ,1943/08/08
+597,1,Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn,2,1,$27.00 ,1968/06/25
+598,0,Mr. Petco Slabenoff,0,0,$7.90 ,1950
+599,0,Mr. Charles H Harrington,0,0,$42.40 ,1955
+600,0,Mr. Ernst William Torber,0,0,USD 8.05,1948/07/12
+601,1,Mr. Harry Homer,0,0,$26.55 ,1957
+602,0,Mr. Edvard Bengtsson Lindell,1,0,$15.55 ,1956/01/27
+603,0,Mr. Milan Karaic,0,0,$7.90 ,1962/07/12
+604,1,Mr. Robert Williams Daniel,0,0,$30.50 ,1965
+605,1,Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche,1,2,USD 41.5792,1970
+606,1,Miss. Elizabeth W Shutes,0,0,USD153.4625,1952
+607,0,Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson,1,5,$31.28 ,1953
+608,0,Mr. Jose Neto Jardin,0,0,$7.05 ,1971/07/24
+609,1,Miss. Margaret Jane Murphy,1,0,$15.50 ,1974/06/07
+610,0,Mr. John Horgan,0,0,$7.75 ,1970
+611,0,Mr. William Alfred Brocklebank,0,0,$8.05 ,1957
+612,1,Miss. Alice Herman,1,2,$65.00 ,1968/04/17
+613,0,Mr. Ernst Gilbert Danbom,1,1,USD14.4,1958/08/06
+614,0,Mrs. William Arthur (Cordelia K Stanlick) Lobb,1,0,$16.10 ,1966
+615,1,Miss. Marion Louise Becker,2,1,$39.00 ,1988
+616,0,Mr. Lawrence Gavey,0,0,$10.50 ,1966/11/08
+617,0,Mr. Antoni Yasbeck,1,0,$14.45 ,1965/09/03
+618,1,Mr. Edwin Nelson Jr Kimball,1,0,$52.55 ,1950/11/03
+619,1,Mr. Sahid Nakid,1,1,$15.74 ,1972
+620,0,Mr. Henry Damsgaard Hansen,0,0,$7.85 ,1971
+621,0,Mr. David John Bowen,0,0,$16.10 ,1971
+622,0,Mr. Frederick Sutton,0,0,$32.32 ,1931/11/06
+623,0,Rev. Charles Leonard Kirkland,0,0,USD12.35,1935/02/04
+624,1,Miss. Gretchen Fiske Longley,0,0,$77.96 ,1971
+625,0,Mr. Guentcho Bostandyeff,0,0,$7.90 ,1966
+626,0,Mr. Patrick D O'Connell,0,0,$7.73 ,1974/09/26
+627,1,Mr. Algernon Henry Wilson Barkworth,0,0,USD 30.0,1912
+628,0,Mr. Johan Svensson Lundahl,0,0,$7.05 ,1941/10/22
+629,1,Dr. Max Stahelin-Maeglin,0,0,$30.50 ,1960/02/17
+630,0,Mr. William Henry Marsh Parr,0,0,$0.00 ,1962/04/16
+631,0,Miss. Mabel Skoog,3,2,$27.90 ,1983
+632,1,Miss. Mary Davis,0,0,USD13.0,1964/10/15
+633,0,Mr. Antti Gustaf Leinonen,0,0,$7.93 ,1960
+634,0,Mr. Harvey Collyer,1,1,$26.25 ,1961/08/19
+635,0,Mrs. Juha (Maria Emilia Ojala) Panula,0,5,$39.69 ,1951/11/27
+636,0,Mr. Percival Thorneycroft,1,0,USD 16.1,1955
+637,0,Mr. Hans Peder Jensen,0,0,$7.85 ,1972/04/08
+638,1,Mlle. Emma Sagesser,0,0,$69.30 ,1968
+639,0,Miss. Margit Elizabeth Skoog,3,2,$27.90 ,1990/09/04
+640,1,Mr. Choong Foo,0,0,$56.50 ,1960
+641,1,Miss. Eugenie Baclini,2,1,USD19.2583,1991
+642,1,Mr. Henry Sleeper Harper,1,0,USD76.7292,1944/03/12
+643,0,Mr. Liudevit Cor,0,0,$7.90 ,1973
+644,1,Col. Oberst Alfons Simonius-Blumer,0,0,$35.50 ,1936/08/01
+645,0,Mr. Edward Willey,0,0,USD7.55,1971/06/22
+646,1,Miss. Amy Zillah Elsie Stanley,0,0,$7.55 ,1969/04/22
+647,0,Mr. Mito Mitkoff,0,0,$7.90 ,1969
+648,1,Miss. Elsie Doling,0,1,$23.00 ,1974/09/15
+649,0,Mr. Johannes Halvorsen Kalvik,0,0,$8.43 ,1971/09/08
+650,1,Miss. Hanora O'Leary,0,0,$7.83 ,1976
+651,0,Miss. Hanora Hegarty,0,0,USD6.75,1974/07/04
+652,0,Mr. Leonard Mark Hickman,2,0,$73.50 ,1968/10/09
+653,0,Mr. Alexander Radeff,0,0,$7.90 ,1965
+654,0,Mrs. John (Catherine) Bourke,1,1,$15.50 ,1960/06/06
+655,0,Mr. George Floyd Eitemiller,0,0,USD13.0,1969/09/01
+656,0,Mr. Arthur Webster Newell,0,2,$113.28 ,1934
+657,1,Dr. Henry William Frauenthal,2,0,$133.65 ,1942/03/10
+658,0,Mr. Mohamed Badt,0,0,USD 7.225,1952/11/22
+659,0,Mr. Edward Pomeroy Colley,0,0,$25.59 ,1945/11/11
+660,0,Mr. Peju Coleff,0,0,$7.50 ,1956
+661,1,Mr. Eino William Lindqvist,1,0,USD7.925,1972
+662,0,Mr. Lewis Hickman,2,0,$73.50 ,1960/10/19
+663,0,Mr. Reginald Fenton Butler,0,0,$13.00 ,1967/04/05
+664,0,Mr. Knud Paust Rommetvedt,0,0,$7.78 ,1943/11/27
+665,0,Mr. Jacob Cook,0,0,$8.05 ,1949
+666,1,Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor,1,0,$52.00 ,1944/11/14
+667,1,Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown,1,1,$39.00 ,1952
+668,0,Mr. Thornton Davidson,1,0,USD52.0,1961
+669,0,Mr. Henry Michael Mitchell,0,0,$10.50 ,1922/09/12
+670,1,Mr. Charles Wilhelms,0,0,$13.00 ,1961
+671,0,Mr. Ennis Hastings Watson,0,0,$0.00 ,1973/07/12
+672,0,Mr. Gustaf Hjalmar Edvardsson,0,0,$7.78 ,1974/06/18
+673,0,Mr. Frederick Charles Sawyer,0,0,$8.05 ,1967
+674,1,Miss. Anna Sofia Turja,0,0,USD 9.8417,1974/08/01
+675,0,Mrs. Frederick (Augusta Tyler) Goodwin,1,6,$46.90 ,1949
+676,1,Mr. Thomas Drake Martinez Cardeza,0,1,$512.33 ,1956/11/19
+677,0,Miss. Katie Peters,0,0,$8.14 ,1964/10/12
+678,1,Mr. Hammad Hassab,0,0,USD 76.7292,1965
+679,0,Mr. Thor Anderson Olsvigen,0,0,$9.23 ,1972
+680,0,Mr. Charles Edward Goodwin,5,2,$46.90 ,1978
+681,0,Mr. Thomas William Solomon Brown,1,1,$39.00 ,1932/07/16
+682,0,Mr. Joseph Philippe Lemercier Laroche,1,2,$41.58 ,1967
+683,0,Mr. Jaako Arnold Panula,4,1,$39.69 ,1978
+684,0,Mr. Branko Dakic,0,0,USD10.1708,1973
+685,0,Mr. Eberhard Thelander Fischer,0,0,$7.80 ,1974
+686,1,Miss. Georgette Alexandra Madill,0,1,$211.34 ,1977/03/16
+687,1,Mr. Albert Adrian Dick,1,0,USD 57.0,1961
+688,1,Miss. Manca Karun,0,1,$13.42 ,1988/09/08
+689,1,Mr. Ali Lam,0,0,$56.50 ,1955/06/05
+690,0,Mr. Khalil Saad,0,0,USD7.225,1967/03/08
+691,0,Col. John Weir,0,0,$26.55 ,1932
+692,0,Mr. Charles Henry Chapman,0,0,USD13.5,1940/05/25
+693,0,Mr. James Kelly,0,0,USD8.05,1948
+694,1,Miss. Katherine Mullens,0,0,$7.73 ,1973/06/25
+695,0,Mr. John Borland Thayer,1,1,USD110.8833,1943/11/27
+696,0,Mr. Adolf Mathias Nicolai Olsen Humblen,0,0,$7.65 ,1950/07/27
+697,1,Mrs. John Jacob (Madeleine Talmadge Force) Astor,1,0,USD 227.525,1974
+698,1,Mr. Spencer Victor Silverthorne,0,0,$26.29 ,1957
+699,0,Miss. Saiide Barbara,0,1,$14.45 ,1974
+700,0,Mr. Martin Gallagher,0,0,$7.74 ,1967
+701,0,Mr. Henrik Juul Hansen,1,0,USD 7.8542,1966
+702,0,Mr. Henry Samuel Morley,0,0,$26.00 ,1953
+703,1,Mrs. Florence Kelly,0,0,USD13.5,1947/05/03
+704,1,Mr. Edward Pennington Calderhead,0,0,USD26.2875,1950/05/19
+705,1,Miss. Alice Cleaver,0,0,USD 151.55,1970
+706,1,Master. Halim Gonios Moubarek,1,1,USD15.2458,1988
+707,1,Mlle. Berthe Antonine Mayne,0,0,$49.50 ,1968
+708,0,Mr. Herman Klaber,0,0,$26.55 ,1951/10/23
+709,1,Mr. Elmer Zebley Taylor,1,0,$52.00 ,1944
+710,0,Mr. August Viktor Larsson,0,0,$9.48 ,1963
+711,0,Mr. Samuel Greenberg,0,0,$13.00 ,1940/07/15
+712,0,Mr. Peter Andreas Lauritz Andersen Soholt,0,0,$7.65 ,1973/10/21
+713,1,Miss. Caroline Louise Endres,0,0,$227.53 ,1954/08/10
+714,1,Miss. Edwina Celia Troutt,0,0,$10.50 ,1965
+715,0,Mr. Malkolm Joackim Johnson,0,0,USD 7.775,1959
+716,1,Miss. Annie Jessie Harper,0,1,USD 33.0,1986
+717,0,Mr. Svend Lauritz Jensen,1,0,$7.05 ,1975/02/08
+718,0,Mr. William Henry Gillespie,0,0,USD13.0,1958/03/08
+719,0,Mr. Henry Price Hodges,0,0,USD13.0,1942/02/13
+720,1,Mr. Norman Campbell Chambers,1,0,$53.10 ,1965
+721,0,Mr. Luka Oreskovic,0,0,$8.66 ,1972/05/21
+722,1,Mrs. Peter Henry (Lillian Jefferys) Renouf,3,0,$21.00 ,1962
+723,1,Miss. Margareth Mannion,0,0,$7.74 ,1964/03/07
+724,0,Mr. Kurt Arnold Gottfrid Bryhl,1,0,USD26.0,1967
+725,0,Miss. Pieta Sofia Ilmakangas,1,0,$7.93 ,1967/09/23
+726,1,Miss. Elisabeth Walton Allen,0,0,$211.34 ,1963
+727,0,Mr. Houssein G N Hassan,0,0,$18.79 ,1981/08/15
+728,0,Mr. Robert J Knight,0,0,$0.00 ,1951
+729,0,Mr. William John Berriman,0,0,$13.00 ,1969
+730,0,Mr. Moses Aaron Troupiansky,0,0,$13.00 ,1969/08/10
+731,0,Mr. Leslie Williams,0,0,$16.10 ,1963/11/15
+732,0,Mrs. Edward (Margaret Ann Watson) Ford,1,3,$34.38 ,1944
+733,1,Mr. Gustave J Lesurer,0,0,$512.33 ,1957/04/08
+734,0,Mr. Kanio Ivanoff,0,0,USD7.8958,1972/06/05
+735,0,Mr. Minko Nankoff,0,0,$7.90 ,1960
+736,1,Mr. Walter James Hawksford,0,0,USD30.0,1947
+737,0,Mr. Tyrell William Cavendish,1,0,USD 78.85,1956/09/06
+738,1,Miss. Susan Parker Ryerson,2,2,$262.38 ,1971
+739,0,Mr. Neal McNamee,1,0,$16.10 ,1968
+740,1,Mr. Juho Stranden,0,0,USD7.925,1961
+741,0,Capt. Edward Gifford Crosby,1,1,$71.00 ,1922/07/26
+742,0,Mr. Rossmore Edward Abbott,1,1,$20.25 ,1976/09/15
+743,1,Miss. Anna Sinkkonen,0,0,USD13.0,1962/07/07
+744,0,Mr. Daniel Warner Marvin,1,0,$53.10 ,1973/03/26
+745,0,Mr. Michael Connaghton,0,0,$7.75 ,1961
+746,1,Miss. Joan Wells,1,1,USD23.0,1988
+747,1,Master. Meier Moor,0,1,USD 12.475,1986
+748,0,Mr. Johannes Joseph Vande Velde,0,0,USD 9.5,1959
+749,0,Mr. Lalio Jonkoff,0,0,$7.90 ,1969/02/06
+750,1,Mrs. Samuel (Jane Laver) Herman,1,2,$65.00 ,1944/06/12
+751,1,Master. Viljo Hamalainen,1,1,$14.50 ,1991/08/09
+752,0,Mr. August Sigfrid Carlsson,0,0,USD 7.7958,1964/03/03
+753,0,Mr. Percy Andrew Bailey,0,0,USD 11.5,1974
+754,0,Mr. Thomas Leonard Theobald,0,0,$8.05 ,1958/02/12
+755,1,the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes,0,0,$86.50 ,1959
+756,0,Mr. John Garfirth,0,0,$14.50 ,1969
+757,0,Mr. Iisakki Antino Aijo Nirva,0,0,$7.13 ,1951/07/14
+758,1,Mr. Hanna Assi Barah,0,0,$7.23 ,1972/04/15
+759,1,Mrs. William Ernest (Lucile Polk) Carter,1,2,$120.00 ,1956
+760,0,Mr. Hans Linus Eklund,0,0,$7.78 ,1976/09/27
+761,1,Mrs. John C (Anna Andrews) Hogeboom,1,0,USD 77.9583,1941
+762,0,Dr. Arthur Jackson Brewe,0,0,$39.60 ,1946/11/04
+763,0,Miss. Mary Mangan,0,0,$7.75 ,1961
+764,0,Mr. Daniel J Moran,1,0,$24.15 ,1964/08/21
+765,0,Mr. Daniel Danielsen Gronnestad,0,0,$8.36 ,1960/04/18
+766,0,Mr. Rene Aime Lievens,0,0,$9.50 ,1968/07/13
+767,0,Mr. Niels Peder Jensen,0,0,USD 7.8542,1944
+768,0,Mrs. (Mary) Mack,0,0,$10.50 ,1935
+769,0,Mr. Dibo Elias,0,0,$7.23 ,1963
+770,1,Mrs. Elizabeth (Eliza Needs) Hocking,1,3,$23.00 ,1938/11/22
+771,0,Mr. Pehr Fabian Oliver Malkolm Myhrman,0,0,$7.75 ,1974
+772,0,Mr. Roger Tobin,0,0,$7.75 ,1972
+773,1,Miss. Virginia Ethel Emanuel,0,0,$12.48 ,1987/01/08
+774,0,Mr. Thomas J Kilgannon,0,0,$7.74 ,1970/08/13
+775,1,Mrs. Edward Scott (Elisabeth Walton McMillan) Robert,0,1,USD 211.3375,1949/05/01
+776,1,Miss. Banoura Ayoub,0,0,$7.23 ,1979/02/07
+777,1,Mrs. Albert Adrian (Vera Gillespie) Dick,1,0,$57.00 ,1975
+778,0,Mr. Milton Clyde Long,0,0,$30.00 ,1963
+779,0,Mr. Andrew G Johnston,1,2,USD 23.45,1957
+780,0,Mr. William Ali,0,0,$7.05 ,1967/09/24
+781,0,Mr. Abraham (David Lishin) Harmer,0,0,$7.25 ,1967
+782,1,Miss. Anna Sofia Sjoblom,0,0,$7.50 ,1974/04/01
+783,0,Master. George Hugh Rice,4,1,$29.13 ,1984/04/10
+784,1,Master. Bertram Vere Dean,1,2,$20.58 ,1991
+785,0,Mr. Benjamin Guggenheim,0,0,$79.20 ,1946/11/15
+786,0,Mr. Andrew Keane,0,0,$7.75 ,1972/05/11
+787,0,Mr. Alfred Gaskell,0,0,$26.00 ,1976/02/12
+788,0,Miss. Stella Anna Sage,8,2,$69.55 ,1971
+789,0,Mr. William Fisher Hoyt,0,0,$30.70 ,1949/08/26
+790,0,Mr. Ristiu Dantcheff,0,0,$7.90 ,1967/11/22
+791,0,Mr. Richard Otter,0,0,$13.00 ,1953/09/24
+792,1,Dr. Alice (Farnham) Leader,0,0,$25.93 ,1943/05/03
+793,1,Mrs. Mara Osman,0,0,$8.68 ,1961/10/01
+794,0,Mr. Yousseff Ibrahim Shawah,0,0,$7.23 ,1962/10/07
+795,0,Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe,1,1,$24.15 ,1962/03/05
+796,0,Mr. Martin Ponesell,0,0,$13.00 ,1958
+797,1,Mrs. Harvey (Charlotte Annie Tate) Collyer,1,1,$26.25 ,1961
+798,1,Master. William Thornton II Carter,1,2,$120.00 ,1981
+799,1,Master. Assad Alexander Thomas,0,1,$8.52 ,1991/08/17
+800,1,Mr. Oskar Arvid Hedman,0,0,$6.98 ,1965/01/18
+801,0,Mr. Karl Johan Johansson,0,0,$7.78 ,1961/09/15
+802,0,Mr. Thomas Jr Andrews,0,0,$0.00 ,1953
+803,0,Miss. Ellen Natalia Pettersson,0,0,USD7.775,1974/09/14
+804,0,Mr. August Meyer,0,0,$13.00 ,1953/03/18
+805,1,Mrs. Norman Campbell (Bertha Griggs) Chambers,1,0,$53.10 ,1959/11/27
+806,0,Mr. William Alexander,0,0,$7.89 ,1966
+807,0,Mr. James Lester,0,0,$24.15 ,1953/08/05
+808,0,Mr. Richard James Slemen,0,0,$10.50 ,1957/08/16
+809,0,Miss. Ebba Iris Alfrida Andersson,4,2,$31.28 ,1986
+810,0,Mr. Ernest Portage Tomlin,0,0,$8.05 ,1961/04/05
+811,0,Mr. Richard Fry,0,0,$0.00 ,1953/04/03
+812,0,Miss. Wendla Maria Heininen,0,0,USD7.925,1969
+813,0,Mr. Albert Mallet,1,1,$37.00 ,1961/10/24
+814,0,Mr. John Fredrik Alexander Holm,0,0,$6.45 ,1949
+815,0,Master. Karl Thorsten Skoog,3,2,USD 27.9,1982
+816,1,Mrs. Charles Melville (Clara Jennings Gregg) Hays,1,1,$93.50 ,1940/07/14
+817,1,Mr. Nikola Lulic,0,0,USD8.6625,1965/04/08
+818,0,Jonkheer. John George Reuchlin,0,0,USD0.0,1954
+819,1,Mrs. (Beila) Moor,0,1,$12.48 ,1965/04/27
+820,0,Master. Urho Abraham Panula,4,1,$39.69 ,1990
+821,0,Mr. John Flynn,0,0,USD 6.95,1956
+822,0,Mr. Len Lam,0,0,USD 56.4958,1969/09/09
+823,1,Master. Andre Mallet,0,2,USD37.0042,1991/10/15
+824,1,Mr. Thomas Joseph McCormack,0,0,$7.75 ,1973
+825,1,Mrs. George Nelson (Martha Evelyn) Stone,0,0,$80.00 ,1930
+826,1,Mrs. Antoni (Selini Alexander) Yasbeck,1,0,$14.45 ,1977
+827,1,Master. George Sibley Richards,1,1,USD18.75,1991
+828,0,Mr. Amin Saad,0,0,USD7.2292,1962
+829,0,Mr. Albert Augustsson,0,0,$7.85 ,1969/06/26
+830,0,Mr. Owen George Allum,0,0,$8.30 ,1974/05/25
+831,1,Miss. Sara Rebecca Compton,1,1,$83.16 ,1953
+832,0,Mr. Jakob Pasic,0,0,$8.66 ,1971/04/11
+833,0,Mr. Maurice Sirota,0,0,$8.05 ,1972
+834,1,Mr. Chang Chip,0,0,USD56.4958,1960
+835,1,Mr. Pierre Marechal,0,0,$29.70 ,1963
+836,0,Mr. Ilmari Rudolf Alhomaki,0,0,USD7.925,1972/10/17
+837,0,Mr. Thomas Charles Mudd,0,0,$10.50 ,1976/11/07
+838,1,Miss. Augusta Serepeca,0,0,$31.00 ,1962
+839,0,Mr. Peter L Lemberopolous,0,0,$6.44 ,1957/09/21
+840,0,Mr. Jeso Culumovic,0,0,$8.66 ,1975
+841,0,Mr. Anthony Abbing,0,0,USD7.55,1950/11/23
+842,0,Mr. Douglas Bullen Sage,8,2,$69.55 ,1974
+843,0,Mr. Marin Markoff,0,0,$7.90 ,1957
+844,0,Rev. John Harper,0,1,USD33.0,1964/02/22
+845,1,Mrs. Samuel L (Edwiga Grabowska) Goldenberg,1,0,$89.10 ,1952
+846,0,Master. Sigvard Harald Elias Andersson,4,2,$31.28 ,1988
+847,0,Mr. Johan Svensson,0,0,$7.78 ,1918
+848,0,Miss. Nourelain Boulos,1,1,$15.25 ,1983
+849,1,Miss. Mary Conover Lines,0,1,$39.40 ,1976
+850,0,Mrs. Ernest Courtenay (Lilian Hughes) Carter,1,0,USD 26.0,1948
+851,1,Mrs. Sam (Leah Rosen) Aks,0,1,$9.35 ,1974/10/22
+852,1,Mrs. George Dennick (Mary Hitchcock) Wick,1,1,$164.87 ,1947/01/06
+853,1,Mr. Peter Denis Daly,0,0,$26.55 ,1941/03/17
+854,1,Mrs. Solomon (Latifa Qurban) Baclini,0,3,USD 19.2583,1968/05/05
+855,0,Mr. Raihed Razi,0,0,USD 7.2292,1962
+856,0,Mr. Claus Peter Hansen,2,0,USD14.1083,1951/06/18
+857,0,Mr. Frederick Edward Giles,1,0,$11.50 ,1971
+858,1,Mrs. Frederick Joel (Margaret Welles Barron) Swift,0,0,$25.93 ,1944/11/13
+859,0,Miss. Dorothy Edith Sage,8,2,$69.55 ,1978
+860,0,Mr. John William Gill,0,0,USD 13.0,1968
+861,1,Mrs. (Karolina) Bystrom,0,0,USD13.0,1950
+862,1,Miss. Asuncion Duran y More,1,0,$13.86 ,1965/02/01
+863,0,Mr. Washington Augustus II Roebling,0,0,USD 50.4958,1961/09/25
+864,0,Mr. Philemon van Melkebeke,0,0,$9.50 ,1969/08/06
+865,1,Master. Harold Theodor Johnson,1,1,$11.13 ,1988/08/24
+866,0,Mr. Cerin Balkic,0,0,$7.90 ,1966/02/09
+867,1,Mrs. Richard Leonard (Sallie Monypeny) Beckwith,1,1,$52.55 ,1945
+868,0,Mr. Frans Olof Carlsson,0,0,$5.00 ,1959/06/16
+869,0,Mr. Victor Vander Cruyssen,0,0,$9.00 ,1945/05/09
+870,1,Mrs. Samuel (Hannah Wizosky) Abelson,1,0,$24.00 ,1964/04/02
+871,1,Miss. Adele Kiamie Najib,0,0,$7.23 ,1977
+872,0,Mr. Alfred Ossian Gustafsson,0,0,$9.85 ,1972/05/07
+873,0,Mr. Nedelio Petroff,0,0,$7.90 ,1973
+874,0,Mr. Kristo Laleff,0,0,$7.90 ,1969
+875,1,Mrs. Thomas Jr (Lily Alexenia Wilson) Potter,0,1,$83.16 ,1936/06/22
+876,1,Mrs. William (Imanita Parrish Hall) Shelley,0,1,$26.00 ,1967/06/19
+877,0,Mr. Johann Markun,0,0,$7.90 ,1959
+878,0,Miss. Gerda Ulrika Dahlberg,0,0,$10.52 ,1970/03/10
+879,0,Mr. Frederick James Banfield,0,0,$10.50 ,1964/05/27
+880,0,Mr. Henry Jr Sutehall,0,0,$7.05 ,1967
+881,0,Mrs. William (Margaret Norton) Rice,0,5,USD 29.125,1953/05/17
+882,0,Rev. Juozas Montvila,0,0,USD 13.0,1965
+883,1,Miss. Margaret Edith Graham,0,0,$30.00 ,1973
+884,0,Miss. Catherine Helen Johnston,1,2,$23.45 ,1985/03/08
+885,1,Mr. Karl Howell Behr,0,0,USD30.0,1966
+886,0,Mr. Patrick Dooley,0,0,$7.75 ,1960/05/12
+749,0,"Jonkoff, Mr. Lalio",0,0,$7.90 ,1969/02/10
+346,1,"Coutts, Master. William Loch",1,1,$15.90 ,1989/02/03
+311,0,"Hendekovic, Mr. Ignjac",0,0,USD7.8958,1964/01/11
+870,1,"Abelson, Mrs. Samuel (Hannah Wizosky)",1,0,USD24.0,1964
+274,0,"Lindblom, Miss. Augusta Charlotta",0,0,USD7.75,1947/10/01
+612,1,"Herman, Miss. Alice",1,2,$65.00 ,1968/07/06
+101,0,"White, Mr. Richard Frasar",0,1,$77.29 ,1971/07/17
+579,0,"Downton, Mr. William James",0,0,$26.00 ,1938/08/26
+77,1,"Caldwell, Master. Alden Gates",0,2,$29.00 ,1991/06/08
+797,1,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",1,1,$26.25 ,1961/02/18
+570,1,"Kelly, Miss. Mary",0,0,$7.75 ,1970/11/09
+646,1,"Stanley, Miss. Amy Zillah Elsie",0,0,$7.55 ,1969
+449,0,"Foreman, Mr. Benjamin Laventall",0,0,$27.75 ,1962/11/06
+120,0,"Moore, Mr. Leonard Charles",0,0,$8.05 ,1973
+333,0,"Denkoff, Mr. Mitto",0,0,USD7.8958,1962
+249,0,"Reed, Mr. James George",0,0,USD 7.25,1974/02/12
+455,1,"Toomey, Miss. Ellen",0,0,$10.50 ,1942
+177,0,"Hale, Mr. Reginald",0,0,$13.00 ,1962/08/03
+542,0,"Nicholson, Mr. Arthur Ernest",0,0,$26.00 ,1928/07/20
+677,0,"Peters, Miss. Katie",0,0,USD8.1375,1964/10/08
+389,1,"Jansson, Mr. Carl Olof",0,0,$7.80 ,1971/03/06
+876,1,"Shelley, Mrs. William (Imanita Parrish Hall)",0,1,USD 26.0,1967
+668,0,"Davidson, Mr. Thornton",1,0,$52.00 ,1961/03/27
+571,0,"Rush, Mr. Alfred George John",0,0,$8.05 ,1976/01/10
+20,0,"Fynney, Mr. Joseph J",0,0,$26.00 ,1957
+21,1,"Beesley, Mr. Lawrence",0,0,$13.00 ,1958/03/20
+526,0,"Hocking, Mr. Richard George",2,1,USD11.5,1969/05/25
+869,0,"Cruyssen, Mr. Victor Vander",0,0,$9.00 ,1945/01/13
+189,1,"Pinsky, Mrs. (Rosa)",0,0,$13.00 ,1960
+261,0,"Harrison, Mr. William",0,0,$0.00 ,1952/03/12
+552,0,"Wright, Mr. George",0,0,$26.55 ,1930/11/18
+307,1,"Francatelli, Miss. Laura Mabel",0,0,$56.93 ,1962/05/11
+0,0,"Braund, Mr. Owen Harris",1,0,$7.25 ,1970
+322,0,"Sage, Mr. George John Jr",8,2,USD69.55,1972/07/21
+752,0,"Carlsson, Mr. August Sigfrid",0,0,$7.80 ,1964
+512,0,"Walker, Mr. William Anderson",0,0,USD34.0208,1945
+148,0,"Byles, Rev. Thomas Roussel Davids",0,0,$13.00 ,1950/05/25
+852,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",1,1,$164.87 ,1947/05/19
+127,1,"Peter, Miss. Anna",1,1,USD 22.3583,1990
+713,1,"Endres, Miss. Caroline Louise",0,0,$227.53 ,1954
+743,1,"Sinkkonen, Miss. Anna",0,0,$13.00 ,1962/08/24
+558,0,"Sivic, Mr. Husein",0,0,$7.90 ,1952/05/06
+170,0,"Rice, Master. Arthur",4,1,$29.13 ,1988
+356,1,"McGovern, Miss. Mary",0,0,$7.88 ,1970/11/15
+351,0,"Arnold-Franchi, Mr. Josef",1,0,$17.80 ,1967
+179,0,"Sage, Miss. Constance Gladys",8,2,$69.55 ,1984
+839,0,"Lemberopolous, Mr. Peter L",0,0,$6.44 ,1957
+715,0,"Johnson, Mr. Malkolm Joackim",0,0,$7.78 ,1959/02/12
+182,1,"Becker, Master. Richard F",2,1,USD39.0,1991/04/13
+709,1,"Taylor, Mr. Elmer Zebley",1,0,$52.00 ,1944
+729,0,"Berriman, Mr. William John",0,0,$13.00 ,1969/02/15
+766,0,"Lievens, Mr. Rene Aime",0,0,$9.50 ,1968
+710,0,"Larsson, Mr. August Viktor",0,0,$9.48 ,1963/04/01
+305,1,"Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y",1,0,$108.90 ,1975/02/21
+409,0,"Hart, Mr. Henry",0,0,$6.86 ,1965
+306,0,"Abelson, Mr. Samuel",1,0,$24.00 ,1962
+419,0,"Zimmerman, Mr. Leo",0,0,$7.88 ,1963
+286,1,"Hosono, Mr. Masabumi",0,0,$13.00 ,1950
+630,0,"Parr, Mr. William Henry Marsh",0,0,$0.00 ,1962
+728,0,"Knight, Mr. Robert J",0,0,$0.00 ,1951/05/17
+149,0,"Bateman, Rev. Robert James",0,0,USD12.525,1941/03/24
+321,1,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",1,1,$29.00 ,1970
+781,0,"Harmer, Mr. Abraham (David Lishin)",0,0,$7.25 ,1967
+76,0,"Moutal, Mr. Rahamin Haim",0,0,$8.05 ,1964
+270,1,"Mellinger, Mrs. (Elizabeth Anne Maidment)",0,1,$19.50 ,1951/07/17
+60,1,"Icard, Miss. Amelie",0,0,$80.00 ,1954
+169,0,"hoef, Mr. Wyckoff Van der",0,0,$33.50 ,1931
+66,0,"Crease, Mr. Ernest James",0,0,$8.16 ,1973
+732,0,"Ford, Mrs. Edward (Margaret Ann Watson)",1,3,USD34.375,1944/05/14
+493,1,"Eustis, Miss. Elizabeth Mussey",1,0,$78.27 ,1938/02/23
+614,0,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",1,0,$16.10 ,1966
+657,1,"Frauenthal, Dr. Henry William",2,0,USD 133.65,1942
+600,0,"Torber, Mr. Ernst William",0,0,$8.05 ,1948
+468,0,"Cacic, Mr. Luka",0,0,$8.66 ,1954/06/18
+639,0,"Skoog, Miss. Margit Elizabeth",3,2,$27.90 ,1990
+253,0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",0,2,$20.21 ,1951
+815,0,"Skoog, Master. Karl Thorsten",3,2,$27.90 ,1982
+761,1,"Hogeboom, Mrs. John C (Anna Andrews)",1,0,$77.96 ,1941
+807,0,"Lester, Mr. James",0,0,USD 24.15,1953/08/27
+237,0,"Pengelly, Mr. Frederick William",0,0,$10.50 ,1973/08/06
+31,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",1,0,$146.52 ,1944/05/17
+791,0,"Otter, Mr. Richard",0,0,USD 13.0,1953
+251,0,"Stead, Mr. William Thomas",0,0,$26.55 ,1930/01/05
+563,0,"Stoytcheff, Mr. Ilia",0,0,$7.90 ,1973/04/13
+26,0,"Emir, Mr. Farred Chehab",0,0,USD7.225,1966/05/20
+417,0,"Impe, Miss. Catharina Van",0,2,$24.15 ,1982/07/14
+464,0,"Smart, Mr. John Montgomery",0,0,USD26.55,1936/06/03
+171,1,"Johnson, Miss. Eleanor Ileen",1,1,$11.13 ,1991
+387,1,"Lehmann, Miss. Bertha",0,0,USD 12.0,1975/10/25
+205,0,"Backstrom, Mr. Karl Alfred",1,0,$15.85 ,1960/11/10
+462,0,"Goncalves, Mr. Manuel Estanslas",0,0,$7.05 ,1954
+802,0,"Andrews, Mr. Thomas Jr",0,0,$0.00 ,1953
+273,1,"Andrews, Miss. Kornelia Theodosia",1,0,$77.96 ,1929
+739,0,"McNamee, Mr. Neal",1,0,$16.10 ,1968
+783,0,"Rice, Master. George Hugh",4,1,$29.13 ,1984/06/07
+240,1,"Murphy, Miss. Katherine",1,0,$15.50 ,1974
+123,0,"White, Mr. Percival Wayland",0,1,$77.29 ,1938
+143,0,"Andrew, Mr. Edgardo Samuel",0,0,$11.50 ,1974
+616,0,"Gavey, Mr. Lawrence",0,0,$10.50 ,1966/01/06
+222,0,"Nenkoff, Mr. Christo",0,0,$7.90 ,1970
+279,0,"Olsson, Mr. Nils Johan Goransson",0,0,$7.85 ,1964/09/09
+114,0,"Pekoniemi, Mr. Edvard",0,0,$7.93 ,1971
+432,1,"Carter, Miss. Lucile Polk",1,2,$120.00 ,1978
+795,0,"Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert) Van",1,1,$24.15 ,1962/06/17
+474,0,"Braund, Mr. Lewis Richard",1,0,$7.05 ,1963/11/03
+296,1,"Saalfeld, Mr. Adolphe",0,0,$30.50 ,1945/11/22
+220,0,"Bracken, Mr. James H",0,0,$13.00 ,1965/06/07
+293,0,"Lewy, Mr. Ervin G",0,0,$27.72 ,1962
+328,1,"McCoy, Miss. Agnes",2,0,USD 23.25,1964/10/17
+107,0,"Rekic, Mr. Tido",0,0,$7.90 ,1954/08/03
+245,0,"Lindahl, Miss. Agda Thorilda Viktoria",0,0,$7.78 ,1967/07/12
+670,1,"Wilhelms, Mr. Charles",0,0,USD13.0,1961/07/05
+444,1,"Seward, Mr. Frederic Kimber",0,0,$26.55 ,1958/03/18
+492,0,"Yousseff, Mr. Gerious",0,0,$14.46 ,1966/05/25
+200,0,"Sage, Mr. Frederick",8,2,USD 69.55,1975
+557,0,"Morrow, Mr. Thomas Rowan",0,0,$7.75 ,1962/05/20
+390,0,"Gustafsson, Mr. Johan Birger",2,0,$7.93 ,1964/02/18
+92,0,"Dean, Mr. Bertram Frank",1,2,$20.58 ,1966
+196,0,"Olsen, Mr. Karl Siegwart Andreas",0,1,$8.40 ,1950/07/02
+610,0,"Horgan, Mr. John",0,0,$7.75 ,1970/03/11
+425,0,"Flynn, Mr. James",0,0,USD 7.75,1964/04/22
+530,1,"Peter, Mrs. Catherine (Catherine Rizk)",0,2,$22.36 ,1968/02/15
+336,1,"Dahl, Mr. Karl Edwart",0,0,USD8.05,1947
+789,0,"Hoyt, Mr. William Fisher",0,0,$30.70 ,1949/06/24
+298,1,"Kelly, Miss. Anna Katherine",0,0,USD 7.75,1972/08/22
+511,0,"Coleff, Mr. Satio",0,0,USD 7.4958,1968/06/03
+605,1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",1,2,USD 41.5792,1970/05/19
+476,1,"Hirvonen, Miss. Hildur E",0,1,$12.29 ,1990
+216,0,"Jacobsohn, Mr. Sidney Samuel",1,0,$27.00 ,1950
+555,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",1,1,USD 79.65,1953
+139,0,"Boulos, Mrs. Joseph (Sultana)",0,2,$15.25 ,1952/05/06
+443,1,"Mellinger, Miss. Madeleine Violet",0,1,$19.50 ,1979/03/22
+817,1,"Lulic, Mr. Nikola",0,0,$8.66 ,1965/03/22
+167,0,"Baumann, Mr. John D",0,0,USD25.925,1932/02/12
+818,0,"Reuchlin, Jonkheer. John George",0,0,$0.00 ,1954/07/19
+85,0,"Ford, Mr. William Neal",1,3,$34.38 ,1976
+301,1,"Keane, Miss. Nora A",0,0,$12.35 ,1946
+236,1,"Collyer, Miss. Marjorie",0,2,$26.25 ,1984
+190,0,"Carbines, Mr. William",0,0,USD 13.0,1973
+730,0,"Troupiansky, Mr. Moses Aaron",0,0,$13.00 ,1969
+134,0,"Richard, Mr. Emile",0,0,$15.05 ,1969/06/14
+46,1,"O'Driscoll, Miss. Bridget",0,0,$7.75 ,1965
+325,1,"Ball, Mrs. (Ada E Hall)",0,0,USD 13.0,1956
+483,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",1,0,$90.00 ,1957/10/10
+507,1,"Daly, Mr. Eugene Patrick",0,0,USD 7.75,1963
+15,1,"Hewlett, Mrs. (Mary D Kingcome)",0,0,$16.00 ,1937
+203,1,"Cohen, Mr. Gurshon",0,0,USD 8.05,1974
+747,1,"Moor, Master. Meier",0,1,$12.48 ,1986/07/01
+194,1,"Lurette, Miss. Elise",0,0,$146.52 ,1934
+329,0,"Partner, Mr. Austen",0,0,$28.50 ,1946
+215,1,"Honkanen, Miss. Eliina",0,0,$7.93 ,1965
+398,1,"Niskanen, Mr. Juha",0,0,$7.93 ,1953
+543,1,"Beane, Mrs. Edward (Ethel Clarke)",1,0,$26.00 ,1973/07/03
+372,0,"Palsson, Miss. Stina Viola",3,1,USD21.075,1989/10/20
+265,1,"Persson, Mr. Ernst Ulrik",1,0,$7.78 ,1967
+427,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",0,0,USD26.55,1964/02/23
+595,0,"Boulos, Mr. Hanna",0,0,USD 7.225,1974
+566,1,"Jonsson, Mr. Carl",0,0,$7.85 ,1960/08/09
+10,1,"Sandstrom, Miss. Marguerite Rut",1,1,USD 16.7,1988/05/10
+885,1,"Behr, Mr. Karl Howell",0,0,$30.00 ,1966
+233,0,"Leyson, Mr. Robert William Norman",0,0,$10.50 ,1968
+166,0,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",1,4,$27.90 ,1947/10/02
+119,0,"Hickman, Mr. Stanley George",2,0,$73.50 ,1971/06/20
+478,0,"Frost, Mr. Anthony Wood",0,0,$0.00 ,1955/02/12
+648,1,"Doling, Miss. Elsie",0,1,$23.00 ,1974/03/07
+56,0,"Novel, Mr. Mansouer",0,0,$7.23 ,1963/05/04
+826,1,"Yasbeck, Mrs. Antoni (Selini Alexander)",1,0,$14.45 ,1977
+248,0,"Carter, Rev. Ernest Courtenay",1,0,USD 26.0,1938/03/13
+491,0,"Stanley, Mr. Edward Roland",0,0,USD 8.05,1971
+722,1,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",3,0,$21.00 ,1962/04/03
+517,1,"Perreault, Miss. Anne",0,0,$93.50 ,1962/05/24
+549,0,"O'Brien, Mr. Timothy",0,0,$7.83 ,1971/11/01
+276,0,"Rice, Master. Eric",4,1,USD 29.125,1985
+510,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",1,0,$59.40 ,1938/02/17
+17,1,"Williams, Mr. Charles Eugene",0,0,$13.00 ,1969
+52,1,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",1,0,$26.00 ,1963/01/22
+465,0,"Scanlan, Mr. James",0,0,USD 7.725,1970/08/07
+723,1,"Mannion, Miss. Margareth",0,0,USD7.7375,1964/11/26
+500,0,"Laitinen, Miss. Kristina Sofia",0,0,USD 9.5875,1955
+354,1,"Bowerman, Miss. Elsie Edith",0,1,$55.00 ,1970/03/21
+193,1,"Brown, Mrs. James Joseph (Margaret Tobin)",0,0,USD 27.7208,1948/01/20
+577,1,"Christy, Miss. Julie Rachel",1,1,$30.00 ,1967
+367,1,"Aubart, Mme. Leontine Pauline",0,0,$69.30 ,1968/08/26
+681,0,"Brown, Mr. Thomas William Solomon",1,1,USD 39.0,1932
+173,0,"Smith, Mr. James Clinch",0,0,$30.70 ,1936
+843,0,"Markoff, Mr. Marin",0,0,USD7.8958,1957/11/13
+131,0,"Robins, Mrs. Alexander A (Grace Charity Laury)",1,0,$14.50 ,1945
+129,0,"Drazenoic, Mr. Jozef",0,0,$7.90 ,1959
+529,0,"Elias, Mr. Joseph Jr",1,1,USD7.2292,1975/11/15
+708,0,"Klaber, Mr. Herman",0,0,$26.55 ,1951/07/11
+588,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",1,0,$78.27 ,1940
+583,0,"Jarvis, Mr. John Denzil",0,0,USD 15.0,1945/07/21
+746,1,"Wells, Miss. Joan",1,1,$23.00 ,1988/01/17
+689,1,"Lam, Mr. Ali",0,0,$56.50 ,1955/04/22
+204,0,"Strom, Miss. Telma Matilda",0,1,$10.46 ,1990
+698,1,"Silverthorne, Mr. Spencer Victor",0,0,$26.29 ,1957/04/03
+833,0,"Sirota, Mr. Maurice",0,0,$8.05 ,1972
+53,0,"Ostby, Mr. Engelhart Cornelius",0,1,$61.98 ,1927/01/23
+147,0,"Navratil, Mr. Michel",0,2,$26.00 ,1955
+191,1,"Andersen-Jensen, Miss. Carla Christine Nielsine",1,0,$7.85 ,1973/08/08
+663,0,"Butler, Mr. Reginald Fenton",0,0,USD13.0,1967
+856,0,"Hansen, Mr. Claus Peter",2,0,$14.11 ,1951
+620,0,"Hansen, Mr. Henry Damsgaard",0,0,$7.85 ,1971/11/24
+241,0,"Coleridge, Mr. Reginald Charles",0,0,$10.50 ,1963/04/16
+399,0,"Adams, Mr. John",0,0,USD8.05,1966/10/14
+627,1,"Barkworth, Mr. Algernon Henry Wilson",0,0,USD30.0,1912/08/16
+527,1,"Quick, Miss. Phyllis May",1,1,$26.00 ,1990
+647,0,"Mitkoff, Mr. Mito",0,0,USD 7.8958,1969/06/17
+687,1,"Dick, Mr. Albert Adrian",1,0,$57.00 ,1961
+164,1,"Goldsmith, Master. Frank John William",0,2,$20.53 ,1983
+345,1,"Davison, Mrs. Thomas Henry (Mary E Finck)",1,0,$16.10 ,1958/06/09
+719,0,"Hodges, Mr. Henry Price",0,0,USD13.0,1942
+842,0,"Sage, Mr. Douglas Bullen",8,2,USD 69.55,1974
+546,1,"Davies, Master. John Morgan Jr",1,1,$36.75 ,1984/09/16
+697,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",1,0,$227.53 ,1974
+226,0,"Lovell, Mr. John Hall",0,0,USD7.25,1971
+142,0,"Burke, Mr. Jeremiah",0,0,USD 6.75,1973/03/14
+32,1,"Glynn, Miss. Mary Agatha",0,0,$7.75 ,1974
+18,0,"Planke, Mrs. Julius (Emelia Maria Vandemoortele) Vander",1,0,$18.00 ,1961/09/19
+637,0,"Jensen, Mr. Hans Peder",0,0,USD7.8542,1972
+873,0,"Petroff, Mr. Nedelio",0,0,$7.90 ,1973
+849,1,"Lines, Miss. Mary Conover",0,1,USD 39.4,1976/04/23
+535,0,"Risien, Mr. Samuel Beard",0,0,$14.50 ,1923
+68,0,"Kink, Mr. Vincenz",2,0,$8.66 ,1966/01/22
+288,1,"Barber, Miss. Ellen",0,0,$78.85 ,1966/10/05
+693,0,"Kelly, Mr. James",0,0,$8.05 ,1948/03/14
+420,0,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",1,1,USD 14.4,1964/04/18
+380,0,"Tikkanen, Mr. Juho",0,0,$7.93 ,1960/10/03
+582,1,"Taussig, Miss. Ruth",0,2,USD 79.65,1974
+835,1,"Marechal, Mr. Pierre",0,0,USD29.7,1963
+661,1,"Lindqvist, Mr. Eino William",1,0,USD7.925,1972/09/03
+391,1,"Newell, Miss. Marjorie",1,0,$113.28 ,1969/11/10
+440,1,"Reynaldo, Ms. Encarnacion",0,0,$13.00 ,1964/09/13
+238,0,"Hunt, Mr. George Henry",0,0,$12.28 ,1959
+308,1,"Hays, Miss. Margaret Bechstein",0,0,$83.16 ,1968
+106,1,"Moss, Mr. Albert Johan",0,0,$7.78 ,1963
+617,0,"Yasbeck, Mr. Antoni",1,0,USD 14.4542,1965/08/04
+330,0,"Graham, Mr. George Edward",0,1,$153.46 ,1954/04/17
+450,1,"Goldenberg, Mr. Samuel L",1,0,$89.10 ,1943/01/20
+162,0,"Calic, Mr. Jovo",0,0,$8.66 ,1975/08/26
+554,0,"Robbins, Mr. Victor",0,0,$227.53 ,1947/08/17
+172,0,"Sivola, Mr. Antti Wilhelm",0,0,$7.93 ,1971/04/02
+156,0,"Corn, Mr. Harry",0,0,$8.05 ,1962
+801,0,"Johansson, Mr. Karl Johan",0,0,$7.78 ,1961/10/10
+79,0,"Waelens, Mr. Achille",0,0,USD9.0,1970
+153,0,"Olsen, Mr. Ole Martin",0,0,$7.31 ,1965/01/06
+210,1,"Cameron, Miss. Clear Annie",0,0,$21.00 ,1957
+426,1,"Pickard, Mr. Berk (Berk Trembisky)",0,0,$8.05 ,1960
+271,0,"Natsch, Mr. Charles H",0,1,$29.70 ,1955/11/17
+300,0,"Johnson, Mr. William Cahoone Jr",0,0,$0.00 ,1973/08/01
+67,1,"Andersson, Miss. Erna Alexandra",4,2,USD7.925,1975
+539,0,"Andersson, Miss. Sigrid Elisabeth",4,2,$31.28 ,1981
+316,1,"Wick, Miss. Mary Natalie",0,2,$164.87 ,1961
+121,0,"Nasser, Mr. Nicholas",1,0,USD30.0708,1959/04/01
+384,0,"Goodwin, Master. Sidney Leonard",5,2,$46.90 ,1991
+879,0,"Banfield, Mr. Frederick James",0,0,$10.50 ,1964/01/07
+202,0,"Youseff, Mr. Gerious",0,0,$7.23 ,1946/03/03
+211,0,"Perkin, Mr. John Henry",0,0,$7.25 ,1970
+363,0,"Adahl, Mr. Mauritz Nils Martin",0,0,USD 7.25,1962
+882,0,"Montvila, Rev. Juozas",0,0,$13.00 ,1965/10/11
+9,1,"Nasser, Mrs. Nicholas (Adele Achem)",1,0,$30.07 ,1978/02/08
+633,0,"Leinonen, Mr. Antti Gustaf",0,0,$7.93 ,1960/03/17
+864,0,"Melkebeke, Mr. Philemon van",0,0,$9.50 ,1969/09/01
+756,0,"Garfirth, Mr. John",0,0,$14.50 ,1969/05/10
+757,0,"Nirva, Mr. Iisakki Antino Aijo",0,0,$7.13 ,1951/02/10
+587,0,"Rintamaki, Mr. Matti",0,0,$7.13 ,1957/02/18
+252,0,"Lobb, Mr. William Arthur",1,0,USD 16.1,1962
+412,1,"Sundman, Mr. Johan Julian",0,0,USD 7.925,1948/07/24
+213,0,"Kiernan, Mr. Philip",1,0,$7.75 ,1970
+332,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",1,0,$133.65 ,1950/07/10
+319,0,"Danoff, Mr. Yoto",0,0,$7.90 ,1965
+613,0,"Danbom, Mr. Ernst Gilbert",1,1,$14.40 ,1958/01/21
+814,0,"Holm, Mr. John Fredrik Alexander",0,0,$6.45 ,1949/10/09
+188,0,"Turcin, Mr. Stjepan",0,0,$7.90 ,1956/09/10
+545,0,"Goldsmith, Mr. Frank John",1,1,$20.53 ,1959
+548,0,"Sharp, Mr. Percival James R",0,0,$26.00 ,1965/09/17
+534,1,"LeRoy, Miss. Bertha",0,0,$106.43 ,1962
+38,0,"Planke, Miss. Augusta Maria Vander",2,0,$18.00 ,1974/06/02
+12,0,"Saundercock, Mr. William Henry",0,0,$8.05 ,1972
+124,1,"Nicola-Yarred, Master. Elias",1,0,$11.24 ,1980/02/09
+243,0,"Attalah, Mr. Sleiman",0,0,$7.23 ,1962
+41,0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",1,0,$21.00 ,1965/03/08
+827,1,"Richards, Master. George Sibley",1,1,USD 18.75,1991
+821,0,"Flynn, Mr. John",0,0,USD6.95,1956/09/06
+499,0,"O'Sullivan, Miss. Bridget Mary",0,0,$7.63 ,1971
+396,0,"Pain, Dr. Alfred",0,0,USD10.5,1969
+658,0,"Badt, Mr. Mohamed",0,0,$7.23 ,1952/07/08
+596,1,"Gordon, Sir. Cosmo Edmund Duff",1,0,$56.93 ,1943
+485,0,"Somerton, Mr. Francis William",0,0,$8.05 ,1962
+429,1,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",1,0,$26.00 ,1950/03/09
+207,1,"Carr, Miss. Helen",0,0,USD7.75,1976/10/10
+447,0,"West, Mr. Edwy Arthur",1,2,$27.75 ,1956
+126,1,"Madsen, Mr. Fridtjof Arne",0,0,$7.14 ,1968/02/15
+146,0,"Ford, Miss. Robina Maggie",2,2,$34.38 ,1983/03/25
+108,1,"Moran, Miss. Bertha",1,0,$24.15 ,1964/05/16
+74,0,"Moen, Mr. Sigurd Hansen",0,0,$7.65 ,1967/03/18
+89,0,"Christmann, Mr. Emil",0,0,$8.05 ,1963/04/16
+819,1,"Moor, Mrs. (Beila)",0,1,USD12.475,1965
+110,0,"Zabour, Miss. Hileni",1,0,USD14.4542,1977/07/25
+861,1,"Bystrom, Mrs. (Karolina)",0,0,USD13.0,1950
+294,0,"Hanna, Mr. Mansour",0,0,$7.23 ,1968
+505,0,"Olsen, Mr. Henry Margido",0,0,$22.53 ,1964
+310,0,"Lahtinen, Mrs. William (Anna Sylfven)",1,1,$26.00 ,1966/05/21
+405,1,"Richards, Master. William Rowe",1,1,$18.75 ,1989/10/23
+297,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",0,1,$247.52 ,1942/02/04
+318,0,"Dennis, Mr. Samuel",0,0,$7.25 ,1970/04/21
+669,0,"Mitchell, Mr. Henry Michael",0,0,$10.50 ,1922
+33,0,"Wheadon, Mr. Edward H",0,0,$10.50 ,1926/01/25
+244,0,"Minahan, Dr. William Edward",2,0,$90.00 ,1948
+239,0,"Zabour, Miss. Thamine",1,0,USD14.4542,1973
+629,1,"Stahelin-Maeglin, Dr. Max",0,0,$30.50 ,1960/07/13
+506,1,"Lang, Mr. Fang",0,0,$56.50 ,1966/01/10
+135,1,"Newsom, Miss. Helen Monypeny",0,2,$26.28 ,1973
+573,1,"Garside, Miss. Ethel",0,0,USD13.0,1958
+700,0,"Gallagher, Mr. Martin",0,0,USD7.7417,1967
+337,0,"Blackwell, Mr. Stephen Weart",0,0,$35.50 ,1947
+645,0,"Willey, Mr. Edward",0,0,$7.55 ,1971
+446,1,"Peuchen, Major. Arthur Godfrey",0,0,$30.50 ,1940/05/04
+95,0,"Goldschmidt, Mr. George B",0,0,$34.65 ,1921/04/06
+290,0,"Levy, Mr. Rene Jacques",0,0,$12.88 ,1956/06/20
+830,0,"Allum, Mr. Owen George",0,0,$8.30 ,1974/05/06
+768,0,"Mack, Mrs. (Mary)",0,0,USD 10.5,1935/03/03
+519,0,"Lahoud, Mr. Sarkis",0,0,USD7.225,1957/06/21
+551,1,"Ohman, Miss. Velin",0,0,USD7.775,1970/05/24
+393,0,"Johansson, Mr. Erik",0,0,$7.80 ,1970
+758,1,"Barah, Mr. Hanna Assi",0,0,$7.23 ,1972
+724,0,"Bryhl, Mr. Kurt Arnold Gottfrid",1,0,USD26.0,1967
+445,1,"Baclini, Miss. Marie Catherine",2,1,$19.26 ,1987
+788,0,"Sage, Miss. Stella Anna",8,2,$69.55 ,1971
+523,1,"Ridsdale, Miss. Lucy",0,0,$10.50 ,1942/09/06
+553,1,"Gordon, Lady. (Lucille Christiana Sutherland)Duff",1,0,USD 39.6,1944/09/17
+515,1,"Angle, Mrs. William A (Florence Agnes Hughes)",1,0,$26.00 ,1956/08/23
+865,1,"Johnson, Master. Harold Theodor",1,1,$11.13 ,1988/05/09
+176,0,"Isham, Miss. Ann Elizabeth",0,0,$28.71 ,1942
+457,1,"Anderson, Mr. Harry",0,0,$26.55 ,1944
+11,1,"Bonnell, Miss. Elizabeth",0,0,$26.55 ,1934
+113,0,"Attalah, Miss. Malake",0,0,$14.46 ,1975/04/27
+343,1,"Brown, Miss. Amelia",0,0,USD 13.0,1968/03/10
+769,0,"Elias, Mr. Dibo",0,0,$7.23 ,1963/09/16
+496,0,"Svensson, Mr. Olof",0,0,$7.80 ,1968/11/21
+144,0,"Nicholls, Mr. Joseph Charles",1,1,$36.75 ,1973
+421,0,"Rosblom, Mr. Viktor Richard",1,1,USD 20.2125,1974/07/24
+34,0,"Meyer, Mr. Edgar Joseph",1,0,$82.17 ,1964
+638,1,"Sagesser, Mlle. Emma",0,0,$69.30 ,1968/11/23
+145,1,"Andersson, Mr. August Edvard",0,0,$7.80 ,1965
+383,0,"Davies, Mr. Charles Henry",0,0,$73.50 ,1974/03/04
+607,0,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",1,5,$31.28 ,1953/06/26
+737,0,"Cavendish, Mr. Tyrell William",1,0,$78.85 ,1956
+786,0,"Keane, Mr. Andrew",0,0,$7.75 ,1972/09/01
+214,1,"Newell, Miss. Madeleine",1,0,$113.28 ,1961
+414,1,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",1,1,USD32.5,1958/09/18
+105,1,"Salkjelsvik, Miss. Anna Kristine",0,0,USD 7.65,1971/11/09
+589,0,"Elsbury, Mr. William James",0,0,$7.25 ,1945/05/24
+439,0,"Petterson, Mr. Johan Emil",1,0,$7.78 ,1967
+598,0,"Slabenoff, Mr. Petco",0,0,$7.90 ,1950/05/11
+168,0,"Ling, Mr. Lee",0,0,$56.50 ,1964/05/24
+69,0,"Jenkin, Mr. Stephen Curnow",0,0,USD 10.5,1960
+592,0,"Impe, Mr. Jean Baptiste Van",1,1,$24.15 ,1956
+711,0,"Greenberg, Mr. Samuel",0,0,USD 13.0,1940/03/23
+477,0,"Goodwin, Master. Harold Victor",5,2,$46.90 ,1983/11/01
+1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",1,0,USD 71.2833,1954/07/13
+373,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",1,0,USD 82.1708,1967
+428,1,"Thorneycroft, Mrs. Percival (Florence Kate White)",1,0,$16.10 ,1959/07/21
+327,1,"Hippach, Miss. Jean Gertrude",0,1,$57.98 ,1976/07/14
+804,0,"Meyer, Mr. August",0,0,USD 13.0,1953/05/09
+264,0,"Panula, Mr. Ernesti Arvid",4,1,$39.69 ,1976
+434,1,"Richards, Mrs. Sidney (Emily Hocking)",2,3,USD18.75,1968/04/06
+805,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",1,0,USD53.1,1959/07/03
+470,1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",0,0,$13.79 ,1969
+458,0,"Morley, Mr. William",0,0,$8.05 ,1958
+192,1,"Navratil, Master. Michel M",1,1,USD 26.0,1989/08/21
+357,1,"Mockler, Miss. Helen Mary",0,0,USD7.8792,1969
+433,0,"Ford, Miss. Doolina Margaret",2,2,$34.38 ,1971
+508,0,"Webber, Mr. James",0,0,$8.05 ,1926/09/04
+576,1,"Jussila, Mr. Eiriik",0,0,$7.93 ,1960/05/24
+471,0,"Strandberg, Miss. Ida Sofia",0,0,$9.84 ,1970/11/16
+161,0,"Bengtsson, Mr. John Viktor",0,0,$7.78 ,1966
+258,1,"Parrish, Mrs. (Lutie Davis)",0,1,$26.00 ,1942/02/18
+219,1,"Sunderland, Mr. Victor Francis",0,0,USD 8.05,1976
+112,0,"Jussila, Miss. Katriina",1,0,USD 9.825,1972/10/24
+857,0,"Giles, Mr. Frederick Edward",1,0,USD 11.5,1971/10/06
+522,0,"Farrell, Mr. James",0,0,USD 7.75,1951
+611,0,"Brocklebank, Mr. William Alfred",0,0,$8.05 ,1957
+413,0,"Meek, Mrs. Thomas (Annie Louise Rowley)",0,0,$8.05 ,1960/03/18
+54,1,"Woolner, Mr. Hugh",0,0,$35.50 ,1946
+463,0,"Campbell, Mr. William",0,0,$0.00 ,1971/05/02
+30,0,"Uruchurtu, Don. Manuel E",0,0,$27.72 ,1952/05/22
+714,1,"Troutt, Miss. Edwina Celia",0,0,$10.50 ,1965
+22,1,"McGowan, Miss. Anna",0,0,$8.03 ,1977/09/05
+886,0,"Dooley, Mr. Patrick",0,0,$7.75 ,1960/01/08
+872,0,"Gustafsson, Mr. Alfred Ossian",0,0,$9.85 ,1972
+560,0,"Simmons, Mr. John",0,0,$8.05 ,1952/09/18
+674,1,"Turja, Miss. Anna Sofia",0,0,$9.84 ,1974
+803,0,"Pettersson, Miss. Ellen Natalia",0,0,USD7.775,1974
+88,0,"Celotti, Mr. Francesco",0,0,$8.05 ,1968/11/13
+257,1,"Ward, Miss. Anna",0,0,USD512.3292,1957/10/20
+800,1,"Hedman, Mr. Oskar Arvid",0,0,$6.98 ,1965
+486,1,"Coutts, Master. Eden Leslie",1,1,$15.90 ,1983/03/11
+863,0,"Roebling, Mr. Washington Augustus II",0,0,USD 50.4958,1961/07/23
+359,0,"Carlo, Mr. Sebastiano del",1,0,$27.72 ,1963/04/11
+160,1,"Watt, Mrs. James (Elizabeth Inglis Milne)",0,0,$15.75 ,1952
+497,0,"Calic, Mr. Petar",0,0,$8.66 ,1975
+130,0,"Coelho, Mr. Domingos Fernandeo",0,0,USD7.05,1972/11/04
+259,1,"Asplund, Master. Edvin Rojj Felix",4,2,$31.39 ,1989/01/19
+776,1,"Ayoub, Miss. Banoura",0,0,$7.23 ,1979/11/24
+376,0,"Betros, Mr. Tannous",0,0,$4.01 ,1972
+234,0,"Harknett, Miss. Alice Phoebe",0,0,USD 7.55,1971
+884,0,"Johnston, Miss. Catherine Helen",1,2,$23.45 ,1985/01/18
+665,0,"Cook, Mr. Jacob",0,0,USD8.05,1949/10/16
+590,0,"Bourke, Miss. Mary",0,2,USD 7.75,1952
+699,0,"Barbara, Miss. Saiide",0,1,$14.45 ,1974
+782,1,"Sjoblom, Miss. Anna Sofia",0,0,USD7.4958,1974
+78,1,"Dowdell, Miss. Elizabeth",0,0,$12.48 ,1962
+64,1,"Moubarek, Master. Gerios",1,1,$15.25 ,1985
+49,0,"Panula, Master. Juha Niilo",4,1,$39.69 ,1985
+452,1,"Jalsevac, Mr. Ivan",0,0,USD7.8958,1963
+684,0,"Dakic, Mr. Branko",0,0,$10.17 ,1973/03/16
+198,0,"Yrois, Miss. Henriette",0,0,$13.00 ,1968/01/17
+580,0,"Ross, Mr. John Hugo",0,0,$40.13 ,1956/06/25
+845,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",1,0,$89.10 ,1952/11/10
+615,1,"Becker, Miss. Marion Louise",2,1,$39.00 ,1988/03/08
+174,0,"Klasen, Mr. Klas Albin",1,1,$7.85 ,1974/04/03
+707,1,"Mayne, Mlle. Berthe Antonine",0,0,$49.50 ,1968/08/14
+254,1,"Touma, Mrs. Darwis (Hanne Youssef Razi)",0,2,$15.25 ,1963
+541,0,"Douglas, Mr. Walter Donald",1,0,USD106.425,1942
+406,0,"Birkeland, Mr. Hans Martin Monsen",0,0,$7.78 ,1971
+625,0,"Bostandyeff, Mr. Guentcho",0,0,USD7.8958,1966
+358,0,"Skoog, Mr. Wilhelm",1,4,USD 27.9,1952
+324,0,"Nysveen, Mr. Johan Hansen",0,0,USD6.2375,1931
+748,0,"Velde, Mr. Johannes Joseph Vande",0,0,$9.50 ,1959
+536,1,"Frolicher, Miss. Hedwig Margaritha",0,2,$49.50 ,1970
+454,1,"Kenyon, Mrs. Frederick R (Marion)",1,0,$51.86 ,1951
+695,0,"Thayer, Mr. John Borland",1,1,$110.88 ,1943/08/05
+331,0,"Planke, Mr. Leo Edmondus Vander",2,0,$18.00 ,1976
+712,0,"Soholt, Mr. Peter Andreas Lauritz Andersen",0,0,$7.65 ,1973
+780,0,"Ali, Mr. William",0,0,$7.05 ,1967
+232,1,"Asplund, Miss. Lillian Gertrud",4,2,$31.39 ,1987
+47,0,"Samaan, Mr. Youssef",2,0,$21.68 ,1976
+25,1,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",1,5,$31.39 ,1954/10/11
+377,0,"Gustafsson, Mr. Karl Gideon",0,0,$7.78 ,1973/11/27
+24,0,"Palsson, Miss. Torborg Danira",3,1,USD 21.075,1984
+578,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",1,1,$110.88 ,1953/08/27
+532,1,"Hart, Miss. Eva Miriam",0,2,USD26.25,1985/01/16
+675,0,"Goodwin, Mrs. Frederick (Augusta Tyler)",1,6,$46.90 ,1949/09/24
+606,1,"Shutes, Miss. Elizabeth W",0,0,$153.46 ,1952
+416,0,"Matthews, Mr. William John",0,0,$13.00 ,1962/08/03
+871,1,"Najib, Miss. Adele Kiamie",0,0,$7.23 ,1977
+503,1,"Quick, Mrs. Frederick Charles (Jane Richards)",0,2,USD 26.0,1959
+364,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",1,0,USD75.25,1932/01/03
+685,0,"Fischer, Mr. Eberhard Thelander",0,0,$7.80 ,1974/07/27
+878,0,"Dahlberg, Miss. Gerda Ulrika",0,0,$10.52 ,1970
+280,0,"Pelsmaeker, Mr. Alfons de",0,0,$9.50 ,1976/06/22
+841,0,"Abbing, Mr. Anthony",0,0,USD 7.55,1950/05/02
+230,0,"Larsson, Mr. Bengt Edvin",0,0,USD 7.775,1963
+138,0,"Giglio, Mr. Victor",0,0,$79.20 ,1968
+475,0,"Karlsson, Mr. Nils August",0,0,USD7.5208,1970/08/11
+779,0,"Johnston, Mr. Andrew G",1,2,USD 23.45,1957
+441,1,"Johannesen-Bratthammer, Mr. Bernt",0,0,USD8.1125,1963/10/03
+767,0,"Jensen, Mr. Niels Peder",0,0,$7.85 ,1944/02/06
+635,0,"Panula, Mrs. Juha (Maria Emilia Ojala)",0,5,$39.69 ,1951/07/01
+35,0,"Holverson, Mr. Alexander Oskar",1,0,$52.00 ,1950/11/12
+2,1,"Heikkinen, Miss. Laina",0,0,$7.93 ,1966
+408,0,"Sdycoff, Mr. Todor",0,0,$7.90 ,1950
+195,0,"Mernagh, Mr. Robert",0,0,USD 7.75,1964/01/03
+682,0,"Laroche, Mr. Joseph Philippe Lemercier",1,2,USD41.5792,1967
+42,1,"Laroche, Miss. Simonne Marie Anne Andree",1,2,USD 41.5792,1989/08/16
+778,0,"Long, Mr. Milton Clyde",0,0,$30.00 ,1963/10/26
+410,1,"Minahan, Miss. Daisy E",1,0,$90.00 ,1959
+87,1,"Fortune, Miss. Mabel Helen",3,2,USD 263.0,1969
+72,0,"Chronopoulos, Mr. Apostolos",1,0,$14.45 ,1966/11/09
+209,0,"Ali, Mr. Ahmed",0,0,$7.05 ,1968
+418,0,"Charters, Mr. David",0,0,USD 7.7333,1971
+640,1,"Foo, Mr. Choong",0,0,$56.50 ,1960/01/15
+98,0,"Kantor, Mr. Sinai",1,0,$26.00 ,1958/10/22
+603,0,"Karaic, Mr. Milan",0,0,USD 7.8958,1962
+490,0,"Artagaveytia, Mr. Ramon",0,0,$49.50 ,1921
+547,1,"Thayer, Mr. John Borland Jr",0,2,$110.88 ,1975/10/08
+784,1,"Dean, Master. Bertram Vere",1,2,$20.58 ,1991/11/20
+83,1,"Ilett, Miss. Bertha",0,0,USD10.5,1975/07/02
+636,0,"Thorneycroft, Mr. Percival",1,0,$16.10 ,1955
+59,0,"Sirayanian, Mr. Orsen",0,0,$7.23 ,1970/10/07
+838,1,"Serepeca, Miss. Augusta",0,0,$31.00 ,1962
+602,0,"Lindell, Mr. Edvard Bengtsson",1,0,$15.55 ,1956
+155,1,"Gilnagh, Miss. Katherine",0,0,$7.73 ,1976
+368,1,"Harder, Mr. George Achilles",1,0,$55.44 ,1967
+3,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",1,0,USD 53.1,1957/08/12
+694,1,"Mullens, Miss. Katherine",0,0,$7.73 ,1973
+344,1,"Smith, Miss. Marion Elsie",0,0,$13.00 ,1952/09/09
+229,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",1,0,$83.48 ,1957
+760,0,"Eklund, Mr. Hans Linus",0,0,USD 7.775,1976/03/10
+339,1,"Fortune, Miss. Alice Elizabeth",3,2,$263.00 ,1968/06/21
+860,0,"Gill, Mr. John William",0,0,USD 13.0,1968/09/25
+186,1,"Romaine, Mr. Charles Hallace",0,0,$26.55 ,1947
+378,1,"Bidois, Miss. Rosalie",0,0,USD 227.525,1950/04/16
+498,0,"Canavan, Miss. Mary",0,0,$7.75 ,1971/10/19
+285,0,"Naidenoff, Mr. Penko",0,0,$7.90 ,1970/11/05
+834,1,"Chip, Mr. Chang",0,0,USD 56.4958,1960/07/17
+859,0,"Sage, Miss. Dorothy Edith",8,2,$69.55 ,1978
+355,0,"Funk, Miss. Annie Clemmer",0,0,USD13.0,1954/08/04
+223,1,"Hoyt, Mr. Frederick Maxfield",1,0,$90.00 ,1954
+7,0,"Palsson, Master. Gosta Leonard",3,1,$21.08 ,1990
+759,1,"Carter, Mrs. William Ernest (Lucile Polk)",1,2,$120.00 ,1956
+716,1,"Harper, Miss. Annie Jessie",0,1,USD 33.0,1986
+562,0,"Davies, Mr. Alfred J",2,0,USD24.15,1968
+720,1,"Chambers, Mr. Norman Campbell",1,0,$53.10 ,1965
+48,0,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",1,0,$17.80 ,1974
+683,0,"Panula, Mr. Jaako Arnold",4,1,$39.69 ,1978
+404,0,"Widegren, Mr. Carl/Charles Peter",0,0,$7.75 ,1941
+137,0,"Osen, Mr. Olaf Elon",0,0,$9.22 ,1976
+19,1,"Masselmani, Mrs. Fatima",0,0,$7.23 ,1970/11/09
+667,1,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",1,1,USD39.0,1952/07/15
+90,0,"Andreasson, Mr. Paul Edvin",0,0,$7.85 ,1972/02/22
+381,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",1,0,$52.00 ,1957
+353,0,"Steen, Mr. Leo Peter Vanden",0,0,$9.50 ,1964/05/05
+593,1,"Leitch, Miss. Jessie Wills",0,0,$33.00 ,1961
+836,0,"Alhomaki, Mr. Ilmari Rudolf",0,0,$7.93 ,1972/08/01
+644,1,"Simonius-Blumer, Col. Oberst Alfons",0,0,USD 35.5,1936
+858,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",0,0,$25.93 ,1944/05/18
+874,0,"Laleff, Mr. Kristo",0,0,$7.90 ,1969
+317,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",1,1,$134.50 ,1952/03/10
+621,0,"Bowen, Mr. David John",0,0,$16.10 ,1971/05/16
+706,1,"Moubarek, Master. Halim Gonios",1,1,$15.25 ,1988
+313,1,"Nilsson, Miss. Helmina Josefina",0,0,$7.85 ,1966/02/18
+304,1,"Fleming, Miss. Margaret",0,0,$110.88 ,1950/02/23
+453,0,"Millet, Mr. Francis Davis",0,0,$26.55 ,1927
+850,0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",1,0,$26.00 ,1948/06/08
+431,0,"Silvey, Mr. William Baird",1,0,$55.90 ,1942
+533,0,"Butt, Major. Archibald Willingham",0,0,USD26.55,1947
+45,0,"Lennon, Mr. Denis",1,0,$15.50 ,1972/08/17
+430,0,"Kallio, Mr. Nikolai Erland",0,0,USD7.125,1975
+51,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",1,0,$76.73 ,1943
+262,0,"Henry, Miss. Delia",0,0,USD7.75,1971
+744,0,"Marvin, Mr. Daniel Warner",1,0,$53.10 ,1973/08/08
+315,0,"Moraweck, Dr. Ernest",0,0,$14.00 ,1938
+115,0,"Connors, Mr. Patrick",0,0,$7.75 ,1921
+435,0,"Fortune, Mr. Mark",1,4,$263.00 ,1928/08/18
+520,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",0,1,$57.98 ,1948/10/13
+754,0,"Theobald, Mr. Thomas Leonard",0,0,$8.05 ,1958/05/09
+221,0,"Green, Mr. George Henry",0,0,$8.05 ,1941/07/15
+394,0,"Olsson, Miss. Elina",0,0,$7.85 ,1961/07/26
+643,0,"Cor, Mr. Liudevit",0,0,$7.90 ,1973/10/05
+228,0,"Lefebre, Miss. Mathilde",3,1,$25.47 ,1980
+883,1,"Graham, Miss. Margaret Edith",0,0,$30.00 ,1973
+28,1,"O'Dwyer, Miss. Ellen",0,0,$7.88 ,1968/03/12
+71,0,"Hood, Mr. Ambrose Jr",0,0,$73.50 ,1971/08/01
+460,0,"Milling, Mr. Jacob Christian",0,0,USD 13.0,1944/02/24
+400,0,"Jussila, Miss. Mari Aina",1,0,$9.83 ,1971
+585,0,"Gilinski, Mr. Eliezer",0,0,USD8.05,1970/06/02
+100,0,"Petroff, Mr. Pastcho",0,0,USD 7.8958,1963/06/14
+340,0,"Collander, Mr. Erik Gustaf",0,0,$13.00 ,1964
+451,0,"Peduzzi, Mr. Joseph",0,0,$8.05 ,1968
+157,0,"Smiljanic, Mr. Mile",0,0,$8.66 ,1955
+484,0,"Kent, Mr. Edward Austin",0,0,$29.70 ,1934
+256,1,"Cherry, Miss. Gladys",0,0,$86.50 ,1962/11/17
+299,1,"McCoy, Mr. Bernard",2,0,$23.25 ,1968
+50,0,"Nosworthy, Mr. Richard Cater",0,0,USD7.8,1971/09/13
+81,1,"McDermott, Miss. Brigdet Delia",0,0,$7.79 ,1961/11/07
+626,0,"O'Connell, Mr. Patrick D",0,0,$7.73 ,1974
+62,0,"Skoog, Master. Harald",3,2,$27.90 ,1988/05/22
+649,0,"Kalvik, Mr. Johannes Halvorsen",0,0,$8.43 ,1971/01/13
+388,1,"Carter, Mr. William Ernest",1,2,$120.00 ,1956
+456,0,"O'Connor, Mr. Maurice",0,0,$7.75 ,1975/07/02
+341,0,"Sedgwick, Mr. Charles Frederick Waddington",0,0,$13.00 ,1967
+37,0,"Cann, Mr. Ernest Charles",0,0,$8.05 ,1971/10/16
+787,0,"Gaskell, Mr. Alfred",0,0,$26.00 ,1976/01/27
+352,0,"Yousif, Mr. Wazli",0,0,USD7.225,1969
+790,0,"Dantcheff, Mr. Ristiu",0,0,$7.90 ,1967/08/03
+654,0,"Bourke, Mrs. John (Catherine)",1,1,$15.50 ,1960/04/21
+277,1,"Abbott, Mrs. Stanton (Rosa Hunt)",1,1,USD 20.25,1957/11/14
+853,1,"Daly, Mr. Peter Denis",0,0,USD 26.55,1941
+55,1,"Rugg, Miss. Emily",0,0,$10.50 ,1971
+91,0,"Chaffee, Mr. Herbert Fuller",1,0,$61.18 ,1946/06/22
+472,0,"Clifford, Mr. George Quincy",0,0,$52.00 ,1952
+741,0,"Crosby, Capt. Edward Gifford",1,1,$71.00 ,1922/02/10
+334,0,"Pears, Mr. Thomas Clinton",1,0,$66.60 ,1963/05/27
+415,1,"Silven, Miss. Lyyli Karoliina",0,2,$13.00 ,1974
+664,0,"Rommetvedt, Mr. Knud Paust",0,0,$7.78 ,1943
+794,0,"Shawah, Mr. Yousseff Ibrahim",0,0,$7.23 ,1962
+504,1,"Bradley, Mr. George",0,0,USD26.55,1955/09/16
+63,0,"Stewart, Mr. Albert A",0,0,USD 27.7208,1928
+735,0,"Nankoff, Mr. Minko",0,0,USD7.8958,1960/11/08
+755,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",0,0,$86.50 ,1959
+374,1,"Landergren, Miss. Aurora Adelia",0,0,$7.25 ,1970/08/09
+422,0,"Wiseman, Mr. Phillippe",0,0,$7.25 ,1938/06/19
+569,1,"Flynn, Mr. John Irwin",0,0,$26.39 ,1956
+604,1,"Daniel, Mr. Robert Williams",0,0,USD30.5,1965
+284,1,"Mulder, Mr. Theodore de",0,0,$9.50 ,1962/07/05
+392,1,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",0,2,USD16.7,1968
+371,0,"Ringhini, Mr. Sante",0,0,$135.63 ,1970/07/08
+224,0,"Berglund, Mr. Karl Ivar Sven",0,0,$9.35 ,1970
+479,0,"Rouse, Mr. Richard Henry",0,0,$8.05 ,1942
+597,1,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",2,1,$27.00 ,1968
+423,1,"Clarke, Mrs. Charles V (Ada Maria Winfield)",1,0,$26.00 ,1964/11/21
+348,0,"Odahl, Mr. Nils Martin",0,0,USD9.225,1969
+581,0,"Paulner, Mr. Uscher",0,0,$8.71 ,1976
+772,0,"Tobin, Mr. Roger",0,0,$7.75 ,1972
+806,0,"Alexander, Mr. William",0,0,$7.89 ,1966
+73,1,"Bing, Mr. Lee",0,0,$56.50 ,1960
+206,1,"Albimona, Mr. Nassef Cassem",0,0,$18.79 ,1966
+44,0,"Rogers, Mr. William John",0,0,$8.05 ,1962/04/14
+338,1,"Navratil, Master. Edmond Roger",1,1,$26.00 ,1990/03/09
+411,0,"Cunningham, Mr. Alfred Fleming",0,0,$0.00 ,1970
+762,0,"Brewe, Dr. Arthur Jackson",0,0,$39.60 ,1946
+825,1,"Stone, Mrs. George Nelson (Martha Evelyn)",0,0,$80.00 ,1930/07/04
+659,0,"Colley, Mr. Edward Pomeroy",0,0,$25.59 ,1945
+544,1,"Manent, Mr. Julian Padro y",0,0,$13.86 ,1965/06/08
+733,1,"Lesurer, Mr. Gustave J",0,0,USD 512.3292,1957
+16,0,"Rice, Master. Eugene",4,1,$29.13 ,1990
+365,1,"Moussa, Mrs. (Mantoura Boulos)",0,0,$7.23 ,1957/04/11
+386,0,"Sadlier, Mr. Matthew",0,0,$7.73 ,1973/02/06
+516,0,"Pavlovic, Mr. Stefo",0,0,$7.90 ,1960/04/24
+150,1,"Pears, Mrs. Thomas (Edith Wearne)",1,0,$66.60 ,1970/05/21
+877,0,"Markun, Mr. Johann",0,0,$7.90 ,1959
+880,0,"Sutehall, Mr. Henry Jr",0,0,$7.05 ,1967/10/02
+572,0,"Patchett, Mr. George",0,0,USD 14.5,1973
+260,0,"Taussig, Mr. Emil",1,1,$79.65 ,1940
+133,0,"Sobey, Mr. Samuel James Hayden",0,0,USD 13.0,1967/07/20
+813,0,"Mallet, Mr. Albert",1,1,$37.00 ,1961/10/03
+628,0,"Lundahl, Mr. Johan Svensson",0,0,$7.05 ,1941
+335,1,"Burns, Miss. Elizabeth Margaret",0,0,USD 134.5,1951/08/19
+82,0,"Carrau, Mr. Francisco M",0,0,$47.10 ,1964/01/01
+753,0,"Bailey, Mr. Percy Andrew",0,0,$11.50 ,1974
+653,0,"Radeff, Mr. Alexander",0,0,$7.90 ,1965/04/23
+495,0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",1,2,$151.55 ,1967
+104,0,"Mionoff, Mr. Stoytcho",0,0,$7.90 ,1964/03/25
+269,1,"Tornquist, Mr. William Henry",0,0,$0.00 ,1967/11/09
+218,0,"Harris, Mr. Walter",0,0,$10.50 ,1962
+23,1,"Sloper, Mr. William Thompson",0,0,$35.50 ,1964
+442,1,"Dodge, Master. Washington",0,2,$81.86 ,1988
+811,0,"Fry, Mr. Richard",0,0,$0.00 ,1953/06/16
+775,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",0,1,$211.34 ,1949
+867,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",1,1,$52.55 ,1945/02/11
+770,1,"Hocking, Mrs. Elizabeth (Eliza Needs)",1,3,$23.00 ,1938/06/06
+242,0,"Maenpaa, Mr. Matti Alexanteri",0,0,$7.13 ,1970
+263,0,"Reeves, Mr. David",0,0,$10.50 ,1956
+565,0,"Doharr, Mr. Tannous",0,0,$7.23 ,1964/02/15
+796,0,"Ponesell, Mr. Martin",0,0,$13.00 ,1958
+660,0,"Coleff, Mr. Peju",0,0,$7.50 ,1956
+122,1,"Webber, Miss. Susan",0,0,$13.00 ,1959
+584,1,"Frolicher-Stehli, Mr. Maxmillian",1,1,$79.20 ,1932/04/09
+208,1,"Blank, Mr. Henry",0,0,$31.00 ,1952/03/16
+808,0,"Slemen, Mr. Richard James",0,0,$10.50 ,1957/07/27
+854,1,"Baclini, Mrs. Solomon (Latifa Qurban)",0,3,USD 19.2583,1968/05/23
+96,1,"Greenfield, Mr. William Bertram",0,1,$63.36 ,1969/04/01
+109,0,"Porter, Mr. Walter Chamberlain",0,0,$52.00 ,1945
+703,1,"Kelly, Mrs. Florence",0,0,$13.50 ,1947/05/06
+881,0,"Rice, Mrs. William (Margaret Norton)",0,5,$29.13 ,1953
+158,0,"Sage, Master. Thomas Henry",8,2,$69.55 ,1987/08/27
+785,0,"Guggenheim, Mr. Benjamin",0,0,$79.20 ,1946/03/25
+154,0,"Williams, Mr. Charles Duane",0,1,$61.38 ,1941
+691,0,"Weir, Col. John",0,0,USD26.55,1932/05/07
+618,1,"Kimball, Mr. Edwin Nelson Jr",1,0,$52.55 ,1950
+292,0,"Mineff, Mr. Ivan",0,0,$7.90 ,1968
+487,0,"Hagland, Mr. Konrad Mathias Reiersen",1,0,$19.97 ,1973
+199,0,"Walle, Mr. Nestor Cyriel Vande",0,0,USD9.5,1964/04/01
+94,0,"Shorney, Mr. Charles Joseph",0,0,USD8.05,1970
+799,1,"Thomas, Master. Assad Alexander",0,1,$8.52 ,1991/05/15
+656,0,"Newell, Mr. Arthur Webster",0,2,$113.28 ,1934
+75,0,"Staneff, Mr. Ivan",0,0,USD7.8958,1969/08/09
+792,1,"Leader, Dr. Alice (Farnham)",0,0,USD 25.9292,1943/04/03
+816,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",1,1,$93.50 ,1940
+448,0,"Hagland, Mr. Ingvald Olai Olsen",1,0,USD 19.9667,1964/05/21
+862,1,"More, Miss. Asuncion Duran y",1,0,$13.86 ,1965
+466,1,"Baclini, Miss. Helene Barbara",2,1,$19.26 ,1991/05/14
+652,0,"Hickman, Mr. Leonard Mark",2,0,$73.50 ,1968
+227,0,"Fahlstrom, Mr. Arne Jonas",0,0,USD13.0,1974
+5,0,"Moran, Mr. James",0,0,USD8.4583,1965
+360,0,"Barbara, Mrs. (Catherine David)",0,1,$14.45 ,1947/10/12
+550,1,"Leeni, Mr. Fahim",0,0,USD7.225,1970/05/25
+692,0,"Chapman, Mr. Charles Henry",0,0,$13.50 ,1940/01/23
+347,0,"Dimic, Mr. Jovan",0,0,$8.66 ,1950/11/20
+385,1,"Buss, Miss. Kate",0,0,USD13.0,1956
+622,0,"Sutton, Mr. Frederick",0,0,$32.32 ,1931/07/21
+594,0,"Johnson, Mr. Alfred",0,0,USD0.0,1943
+178,0,"Leonard, Mr. Lionel",0,0,$0.00 ,1956
+738,1,"Ryerson, Miss. Susan Parker",2,2,$262.38 ,1971/01/24
+820,0,"Panula, Master. Urho Abraham",4,1,USD39.6875,1990
+764,0,"Moran, Mr. Daniel J",1,0,USD 24.15,1964/03/26
+350,0,"Elias, Mr. Tannous",1,1,$7.23 ,1977
+704,1,"Calderhead, Mr. Edward Pennington",0,0,$26.29 ,1950
+482,0,"Lefebre, Miss. Jeannie",3,1,USD 25.4667,1984/04/24
+403,0,"Gale, Mr. Shadrach",1,0,$21.00 ,1958
+509,1,"McGough, Mr. James Robert",0,0,$26.29 ,1956/08/05
+574,1,"Silvey, Mrs. William Baird (Alice Munger)",1,0,$55.90 ,1953
+36,1,"Mamee, Mr. Hanna",0,0,$7.23 ,1974
+634,0,"Collyer, Mr. Harvey",1,1,$26.25 ,1961
+601,1,"Homer, Mr. Harry",0,0,$26.55 ,1957
+727,0,"Hassan, Mr. Houssein G N",0,0,$18.79 ,1981
+187,0,"Bourke, Mr. John",1,1,$15.50 ,1952/01/14
+751,1,"Hamalainen, Master. Viljo",1,1,$14.50 ,1991/05/17
+823,1,"Mallet, Master. Andre",0,2,USD37.0042,1991/10/10
+513,1,"Lemore, Mrs. (Amelia Milley)",0,0,$10.50 ,1958/06/04
+116,0,"Turpin, Mr. William John Robert",1,0,USD 21.0,1963/11/15
+725,0,"Ilmakangas, Miss. Pieta Sofia",1,0,$7.93 ,1967
+502,0,"Castellana, Mr. Victor de Satode Penasco y",1,0,$108.90 ,1974
+461,0,"Maisner, Mr. Simon",0,0,$8.05 ,1958
+275,0,"Parkes, Mr. Francis",0,0,USD0.0,1971/10/22
+6,0,"McCarthy, Mr. Timothy J",0,0,$51.86 ,1938
+342,0,"Fox, Mr. Stanley Hubert",0,0,USD13.0,1956/05/14
+14,0,"Vestrom, Miss. Hulda Amanda Adolfina",0,0,$7.85 ,1978/10/21
+128,0,"Ekstrom, Mr. Johan",0,0,$6.98 ,1947/06/14
+397,1,"Trout, Mrs. William H (Jessie L)",0,0,$12.65 ,1964/01/10
+829,0,"Augustsson, Mr. Albert",0,0,$7.85 ,1969
+185,1,"O'Brien, Mrs. Thomas (Johanna Godfrey)",1,0,$15.50 ,1966/01/17
+231,0,"Sjostedt, Mr. Ernst Adolf",0,0,USD 13.5,1933
+632,1,"Davis, Miss. Mary",0,0,$13.00 ,1964/02/17
+591,0,"Chapman, Mr. John Henry",1,0,USD26.0,1955
+840,0,"Culumovic, Mr. Jeso",0,0,$8.66 ,1975/05/09
+561,0,"Meanwell, Miss. (Marion Ogden)",0,0,$8.05 ,1930
+43,1,"Devaney, Miss. Margaret Delia",0,0,USD7.8792,1973/04/04
+655,0,"Eitemiller, Mr. George Floyd",0,0,$13.00 ,1969
+323,1,"Young, Miss. Marie Grice",0,0,USD 135.6333,1956/01/04
+291,0,"Haas, Miss. Aloisia",0,0,USD8.85,1968/10/08
+623,0,"Kirkland, Rev. Charles Leonard",0,0,$12.35 ,1935
+278,0,"Duane, Mr. Frank",0,0,$7.75 ,1927
+609,1,"Murphy, Miss. Margaret Jane",1,0,$15.50 ,1974
+255,1,"Thorne, Mrs. Gertrude Maybelle",0,0,$79.20 ,1954/03/08
+97,1,"Doling, Mrs. John T (Ada Julia Bone)",0,1,$23.00 ,1958
+765,0,"Gronnestad, Mr. Daniel Danielsen",0,0,$8.36 ,1960/01/26
+847,0,"Svensson, Mr. Johan",0,0,$7.78 ,1918
+717,0,"Jensen, Mr. Svend Lauritz",1,0,$7.05 ,1975/07/22
+726,1,"Allen, Miss. Elisabeth Walton",0,0,$211.34 ,1963
+575,0,"Caram, Mrs. Joseph (Maria Elias)",1,0,$14.46 ,1974
+538,0,"Andersson, Miss. Ingeborg Constanzia",4,2,$31.28 ,1983/04/23
+281,1,"Dorking, Mr. Edward Arthur",0,0,$8.05 ,1973
+320,1,"Slayter, Miss. Hilda Mary",0,0,$12.35 ,1962/10/02
+402,0,"Oreskovic, Miss. Marija",0,0,$8.66 ,1972
+521,0,"Kassem, Mr. Fared",0,0,USD 7.2292,1974
+798,1,"Carter, Master. William Thornton II",1,2,$120.00 ,1981/08/16
+844,0,"Harper, Rev. John",0,1,$33.00 ,1964/07/05
+132,1,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",1,0,$26.00 ,1963/09/21
+537,1,"Crosby, Miss. Harriet R",0,2,USD 71.0,1956
+4,0,"Allen, Mr. William Henry",0,0,USD 8.05,1957/02/10
+375,0,"Widener, Mr. Harry Elkins",0,2,$211.50 ,1965/04/23
+734,0,"Ivanoff, Mr. Kanio",0,0,$7.90 ,1972/09/13
+180,0,"Pernot, Mr. Rene",0,0,$15.05 ,1953
+481,1,"Bishop, Mr. Dickinson H",1,0,$91.08 ,1967/02/18
+679,0,"Olsvigen, Mr. Thor Anderson",0,0,$9.23 ,1972
+494,0,"Shellard, Mr. Frederick William",0,0,$15.10 ,1937
+8,1,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",0,2,$11.13 ,1965
+851,1,"Aks, Mrs. Sam (Leah Rosen)",0,1,$9.35 ,1974/09/02
+810,0,"Tomlin, Mr. Ernest Portage",0,0,USD8.05,1961/11/09
+163,0,"Panula, Master. Eino Viljami",4,1,$39.69 ,1991
+696,0,"Humblen, Mr. Adolf Mathias Nicolai Olsen",0,0,$7.65 ,1950/11/02
+349,0,"Williams-Lambert, Mr. Fletcher Fellows",0,0,USD 35.0,1949/11/22
+459,0,"Gee, Mr. Arthur H",0,0,USD38.5,1945
+118,0,"Andersson, Miss. Ellis Anna Maria",4,2,USD31.275,1990
+650,1,"O'Leary, Miss. Hanora",0,0,$7.83 ,1976
+531,0,"Cacic, Miss. Marija",0,0,$8.66 ,1962/01/20
+84,1,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",3,0,$15.85 ,1959/10/02
+141,1,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",1,0,USD15.85,1968/09/14
+136,0,"Futrelle, Mr. Jacques Heath",1,0,USD53.1,1955/09/22
+564,0,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",0,4,$21.08 ,1963/10/22
+201,0,"Johanson, Mr. Jakob Alfred",0,0,$6.50 ,1958/08/10
+480,1,"Turkula, Mrs. (Hedwig)",0,0,$9.59 ,1929
+837,0,"Mudd, Mr. Thomas Charles",0,0,USD10.5,1976
+217,1,"Bazzani, Miss. Albina",0,0,USD 76.2917,1960/02/02
+524,0,"Farthing, Mr. John",0,0,USD221.7792,1943
+771,0,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",0,0,$7.75 ,1974
+568,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",2,0,$51.48 ,1939/01/11
+370,0,"Beavan, Mr. William Thomas",0,0,$8.05 ,1973/08/08
+777,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",1,0,USD 57.0,1975
+99,0,"Petranec, Miss. Matilda",0,0,$7.90 ,1964
+690,0,"Saad, Mr. Khalil",0,0,$7.23 ,1967
+283,0,"Stankovic, Mr. Ivan",0,0,$8.66 ,1959
+567,1,"Harris, Mr. George",0,0,USD 10.5,1930/11/18
+676,1,"Cardeza, Mr. Thomas Drake Martinez",0,1,USD512.3292,1956/11/12
+361,0,"Asim, Mr. Adola",0,0,$7.05 ,1957/03/01
+102,0,"Johansson, Mr. Gustaf Joel",0,0,$8.65 ,1959/02/08
+631,0,"Skoog, Miss. Mabel",3,2,$27.90 ,1983
+152,0,"Billiard, Mr. Austin Blyler van",0,2,$14.50 ,1951/04/10
+666,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",1,0,$52.00 ,1944/06/09
+473,0,"Renouf, Mr. Peter Henry",1,0,USD21.0,1958/08/10
+518,0,"Vovk, Mr. Janko",0,0,$7.90 ,1970
+151,0,"Meo, Mr. Alfonzo",0,0,$8.05 ,1936/03/22
+832,0,"Pasic, Mr. Jakob",0,0,$8.66 ,1971
+125,0,"McMahon, Mr. Martin",0,0,USD 7.75,1973
+540,1,"Beane, Mr. Edward",1,0,$26.00 ,1960/03/26
+469,1,"West, Mrs. Edwy Arthur (Ada Mary Worth)",1,2,$27.75 ,1959
+671,0,"Watson, Mr. Ennis Hastings",0,0,$0.00 ,1973/02/20
+250,0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",1,1,$10.46 ,1963
+61,0,"Harris, Mr. Henry Birkhardt",1,0,$83.48 ,1947
+183,1,"Kink-Heilmann, Miss. Luise Gretchen",0,2,USD 22.025,1988/06/07
+750,1,"Herman, Mrs. Samuel (Jane Laver)",1,2,$65.00 ,1944
+824,1,"McCormack, Mr. Thomas Joseph",0,0,$7.75 ,1973/04/13
+855,0,"Razi, Mr. Raihed",0,0,$7.23 ,1962
+624,1,"Longley, Miss. Gretchen Fiske",0,0,$77.96 ,1971
+875,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",0,1,USD 83.1583,1936
+407,0,"Lefebre, Miss. Ida",3,1,$25.47 ,1989/05/24
+705,1,"Cleaver, Miss. Alice",0,0,$151.55 ,1970/11/10
+86,0,"Slocovski, Mr. Selman Francis",0,0,$8.05 ,1972/07/01
+586,0,"Murdlin, Mr. Joseph",0,0,$8.05 ,1970/02/19
+266,1,"Graham, Mrs. William Thompson (Edith Junkins)",0,1,$153.46 ,1934/04/23
+680,0,"Goodwin, Mr. Charles Edward",5,2,$46.90 ,1978
+165,1,"Chibnall, Mrs. (Edith Martha Bowerman)",0,1,$55.00 ,1944/03/23
+812,0,"Heininen, Miss. Wendla Maria",0,0,USD7.925,1969
+302,0,"Williams, Mr. Howard Hugh",0,0,$8.05 ,1964
+159,0,"Cribb, Mr. John Hatfield",0,1,$16.10 ,1948
+181,0,"Asplund, Master. Clarence Gustaf Hugo",4,2,$31.39 ,1983/10/01
+438,0,"Hampe, Mr. Leon",0,0,$9.50 ,1972/03/15
+745,0,"Connaghton, Mr. Michael",0,0,USD7.75,1961
+773,1,"Emanuel, Miss. Virginia Ethel",0,0,$12.48 ,1987
+525,0,"Salonen, Mr. Johan Werner",0,0,$7.93 ,1953
+736,1,"Hawksford, Mr. Walter James",0,0,$30.00 ,1947/05/09
+528,0,"Toufik, Mr. Nakli",0,0,$7.23 ,1975/02/13
+366,1,"Jermyn, Miss. Annie",0,0,$7.75 ,1970/05/03
+70,0,"Goodwin, Miss. Lillian Amy",5,2,$46.90 ,1976/08/12
+58,0,"Goodwin, Master. William Frederick",5,2,$46.90 ,1981/10/25
+701,0,"Hansen, Mr. Henrik Juul",1,0,$7.85 ,1966/10/06
+379,1,"Nakid, Miss. Maria",0,2,USD15.7417,1991/03/12
+314,1,"Kantor, Mrs. Sinai (Miriam Sternin)",1,0,$26.00 ,1968/02/01
+39,1,"Nicola-Yarred, Miss. Jamila",1,0,$11.24 ,1978
+57,1,"West, Miss. Constance Mirium",1,2,USD 27.75,1987
+599,0,"Harrington, Mr. Charles H",0,0,$42.40 ,1955
+40,0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",1,0,USD 9.475,1952/03/23
+175,0,"Lefebre, Master. Henry Forbes",3,1,USD25.4667,1987
+866,0,"Balkic, Mr. Cerin",0,0,$7.90 ,1966/03/23
+662,0,"Hickman, Mr. Lewis",2,0,USD73.5,1960/06/07
+309,1,"Ryerson, Miss. Emily Borie",2,2,$262.38 ,1974/10/03
+212,0,"Givard, Mr. Hans Kristensen",0,0,$13.00 ,1962
+774,0,"Kilgannon, Mr. Thomas J",0,0,$7.74 ,1970/09/02
+651,0,"Hegarty, Miss. Hanora",0,0,USD6.75,1974
+488,0,"Windelov, Mr. Einar",0,0,USD7.25,1971/03/01
+395,0,"McKane, Mr. Peter David",0,0,USD 26.0,1946
+718,0,"Gillespie, Mr. William Henry",0,0,$13.00 ,1958/11/01
+809,0,"Andersson, Miss. Ebba Iris Alfrida",4,2,USD31.275,1986/03/23
+225,1,"Mellors, Mr. William John",0,0,$10.50 ,1973
+111,0,"Barton, Mr. David John",0,0,$8.05 ,1970/06/10
+559,0,"Norman, Mr. Robert Douglas",0,0,$13.50 ,1964
+27,0,"Fortune, Mr. Charles Alexander",3,2,$263.00 ,1973
+740,1,"Stranden, Mr. Juho",0,0,$7.93 ,1961/08/25
+436,0,"Kvillner, Mr. Johan Henrik Johannesson",0,0,$10.50 ,1961/03/08
+312,0,"Hart, Mr. Benjamin",1,1,$26.25 ,1949
+13,0,"Andersson, Mr. Anders Johan",1,5,$31.28 ,1953
+721,0,"Oreskovic, Mr. Luka",0,0,USD8.6625,1972
+246,1,"Hamalainen, Mrs. William (Anna)",0,2,$14.50 ,1968
+80,1,"Sheerlinck, Mr. Jan Baptist",0,0,$9.50 ,1963
+828,0,"Saad, Mr. Amin",0,0,$7.23 ,1962/04/14
+247,1,"Beckwith, Mr. Richard Leonard",1,1,USD52.5542,1955/01/16
+742,0,"Abbott, Mr. Rossmore Edward",1,1,$20.25 ,1976/03/02
+29,0,"Todoroff, Mr. Lalio",0,0,$7.90 ,1969/08/02
+846,0,"Andersson, Master. Sigvard Harald Elias",4,2,$31.28 ,1988
+672,0,"Edvardsson, Mr. Gustaf Hjalmar",0,0,$7.78 ,1974/08/01
+65,1,"Nye, Mrs. (Elizabeth Ramell)",0,0,$10.50 ,1963/09/04
+197,1,"Madigan, Miss. Margaret",0,0,$7.75 ,1971
+362,0,"O'Brien, Mr. Thomas",1,0,USD15.5,1965
+401,0,"Hakkarainen, Mr. Pekka Pietari",1,0,$15.85 ,1964/08/23
+688,1,"Karun, Miss. Manca",0,1,$13.42 ,1988
+673,0,"Sawyer, Mr. Frederick Charles",0,0,$8.05 ,1967/01/07
+235,0,"Hold, Mr. Stephen",1,0,$26.00 ,1948
+272,1,"Healy, Miss. Hanora",0,0,$7.75 ,1959
+289,1,"Bishop, Mrs. Dickinson H (Helen Walton)",1,0,$91.08 ,1973/03/20
+702,0,"Morley, Mr. Henry Samuel",0,0,$26.00 ,1953
+303,1,"Allison, Master. Hudson Trevor",1,2,$151.55 ,1991/08/09
+642,1,"Harper, Mr. Henry Sleeper",1,0,$76.73 ,1944/06/03
+140,1,"Nysten, Miss. Anna Sofia",0,0,$7.75 ,1970
+641,1,"Baclini, Miss. Eugenie",2,1,USD19.2583,1991/11/26
+103,0,"Gustafsson, Mr. Anders Vilhelm",2,0,USD 7.925,1955
+295,0,"Allison, Miss. Helen Loraine",1,2,USD 151.55,1990
+686,1,"Madill, Miss. Georgette Alexandra",0,1,$211.34 ,1977/03/17
+848,0,"Boulos, Miss. Nourelain",1,1,$15.25 ,1983
+282,0,"Smith, Mr. Richard William",0,0,USD26.0,1935/03/11
+184,0,"Rood, Mr. Hugh Roscoe",0,0,$50.00 ,1953
+731,0,"Williams, Mr. Leslie",0,0,$16.10 ,1963
+831,1,"Compton, Miss. Sara Rebecca",1,1,$83.16 ,1953/08/14
+369,0,"Wiklund, Mr. Jakob Alfred",1,0,USD6.4958,1974
+619,1,"Nakid, Mr. Sahid",1,1,$15.74 ,1972/06/18
+822,0,"Lam, Mr. Len",0,0,$56.50 ,1969
+268,0,"Cairns, Mr. Alexander",0,0,USD31.0,1964/03/16
+514,0,"Ryan, Mr. Patrick",0,0,USD24.15,1962
+326,1,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",1,1,USD20.525,1961
+287,1,"Connolly, Miss. Kate",0,0,$7.75 ,1970/06/11
+93,0,"Coxon, Mr. Daniel",0,0,USD 7.25,1933
+868,0,"Carlsson, Mr. Frans Olof",0,0,$5.00 ,1959
+678,1,"Hassab, Mr. Hammad",0,0,$76.73 ,1965/03/08
+382,0,"Plotcharsky, Mr. Vasil",0,0,$7.90 ,1965/03/02
+608,0,"Jardin, Mr. Jose Neto",0,0,USD 7.05,1971/09/26
+267,1,"Bissette, Miss. Amelia",0,0,$135.63 ,1957/05/07
+437,1,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",1,1,$26.25 ,1947/03/25
+763,0,"Mangan, Miss. Mary",0,0,$7.75 ,1961
+556,1,"Messemaeker, Mrs. Guillaume Joseph (Emma) de",1,0,$17.40 ,1956/08/17
+424,1,"Phillips, Miss. Kate Florence",0,0,$26.00 ,1973
+467,0,"Keefe, Mr. Arthur",0,0,USD7.25,1953/02/08
+117,0,"Baxter, Mr. Quigg Edmond",0,1,USD247.5208,1968
+501,1,"Maioni, Miss. Roberta",0,0,$86.50 ,1976
+489,0,"Molson, Mr. Harry Markland",0,0,USD30.5,1937
+793,1,"Osman, Mrs. Mara",0,0,$8.68 ,1961/09/20
